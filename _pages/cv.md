@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and academic degrees
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Habilitation in Infectious Disease Epidemiology, University of Bern, Switzerland, 2017
+* Ph.D. in Theoretical Biology, Utrecht University, The Netherlands, 2009
+* Dipl. Natw. ETH in Biology, ETH Zurich, Switzerland, 2004
+* Erasmus exchange programme, Humboldt-Universität zu Berlin, Germany, 2002
 
-Work experience
+Academic appointments
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,15 +27,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,7 +45,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
