@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education and Academic Degrees
+## Education and Academic Degrees
 * **University of Bern, Bern, Switzerland**
 	* Habilitation, Epidemiology of infectious diseases, 2017
 * **Utrecht University, Utrecht, The Netherlands**
@@ -23,7 +23,7 @@ redirect_from:
 * **Humboldt-Universität zu Berlin, Berlin, Germany**
 	* Erasmus exchange programme, 2002
 
-# Academic Appointments
+## Academic Appointments
 * **Institute of Social and Preventive Medicine, University of Bern, Switzerland**
 	* Member of Senior Management Board, 2017 -
 	* Head of Research Group, 2014 -
@@ -34,7 +34,7 @@ redirect_from:
 * **Institute for Ecology & Evolution, ETH Zurich, Zurich, Switzerland**
 	* Research Assistant, 2004 - 2005
 
-# Grants, Awards & Fellowships
+## Grants, Awards & Fellowships
 * 2015: World Health Organization (WHO): Developing guidance on incorporating modelling into WHO guidelines, 65’000 CHF, Role: Co-PI (PI: M. Egger) 
 * 2014: Krebsliga Schweiz - Swiss Cancer Research: What will be the impact of human papillomavirus (HPV) vaccination on HPV-associated cancers in Switzerland? A mathematical modelling study, 261’900 CHF, Role: PI 
 * 2013: SwissTransMed project (Platforms for Translational Research in Medicine): Rapid diagnosis of antibiotic resistance in gonorrhoea: RADAR-Go, 2’026’624 CHF, Role: Co-PI (PI: N. Low)
@@ -45,7 +45,7 @@ redirect_from:
 * 2002: Erasmus exchange programme
 * 1997: Schweizer Jugend forscht (Swiss Youth in Science) study week
 
-# Editorial & Review Work
+## Editorial & Review Work
 * Since 2012: Academic Editor for PeerJ
 * Since 2013: Guest Editor for PLOS Computational Biology
 * Since 2015: Editorial Board of Matters
