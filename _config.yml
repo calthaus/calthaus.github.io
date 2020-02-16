@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Christian L. Althaus"
-  avatar           : "profile.png"
+  avatar           : "althaus.jpg"
   bio              : "Computational epidemiologist; head of research group at the <a style='color: black;' href='https://www.ispm.unibe.ch'>Institute of Social and Preventive Medicine</a> of the <a style='color: black;' href='https://www.unibe.ch'>University of Bern</a>"
   location         : "Bern/Zurich, Switzerland"
-  employer         : "University of Bern"
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=althaus+cl"
   googlescholar    : "https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en"
   email            : "christian.althaus@alumni.ethz.ch"
