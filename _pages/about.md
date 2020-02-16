@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: "At the interface of basic research and public health"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
