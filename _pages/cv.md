@@ -20,7 +20,6 @@ redirect_from:
 	* Dipl. Natw. ETH, Biology, 1998 - 2004
 	* Thesis: Effects of recombination and epistatic selection in HIV-1
 	* Supervisor: Prof. Sebastian Bonhoeffer
-
 * **Humboldt-Universität zu Berlin, Berlin, Germany**
 	* Erasmus exchange programme, 2002
 
