@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Christian L. Althaus"
   avatar           : "profile.png"
-  bio              : "Computational epidemiologist"
+  bio              : "Computational epidemiologist; head of research group at the <a style='color: black;' href='https://www.ispm.unibe.ch'>Institute of Social and Preventive Medicine</a> of the <a style='color: black;' href='https://www.unibe.ch'>University of Bern</a>"
   location         : "Bern/Zurich, Switzerland"
   employer         : "University of Bern"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=althaus+cl"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/calthaus/"
+  linkedin         : "calthaus/"
   orcid            : "https://orcid.org/0000-0002-5230-6760"
   pinterest        :
   soundcloud       :
