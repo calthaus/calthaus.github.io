@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h4>Preprints/Under review</h4>
+<h2>Preprints/Under review</h2>
 <ul>
-<li><a href="https://doi.org/10.1101/19012674">Impact and cost-effectiveness of nonavalent human papillomavirus vaccination in Switzerland: insights from a dynamic transmission model.</a>
-Riesen M, Bogaards JA, Low N, Althaus CL.
+ <li><a href="https://doi.org/10.1101/19012674">Impact and cost-effectiveness of nonavalent human papillomavirus vaccination in Switzerland: insights from a dynamic transmission model.</a>  
+Riesen M, Bogaards JA, Low N, Althaus CL.  
 <a href="https://github.com/mauraner/HPV_vacc_costeffect_Switzerland">Data &amp; R code on GitHub</a></li>
- 	<li><a href="https://doi.org/10.1101/321216">De novo mutations drive the spread of macrolide resistant Mycoplasma genitalium: mathematical modelling study.</a>
-Cadosch D, Garcia V, Althaus CL, Jensen JS, Low N.
+ 	<li><a href="https://doi.org/10.1101/321216">De novo mutations drive the spread of macrolide resistant Mycoplasma genitalium: mathematical modelling study.</a>  
+Cadosch D, Garcia V, Althaus CL, Jensen JS, Low N.  
 <a href="https://github.com/calthaus/MG-resistance">Data &amp; R code on GitHub</a></li>
- 	<li><a href="https://doi.org/10.7287/peerj.preprints.940">How sex acts scale with the number of sex partners: evidence from Chlamydia trachomatis data and implications for control.</a>
+ 	<li><a href="https://doi.org/10.7287/peerj.preprints.940">How sex acts scale with the number of sex partners: evidence from Chlamydia trachomatis data and implications for control.</a>  
 Althaus CL, Choisy M, Alizon S, CSF group.</li>
 </ul>
 
-<h4>Published/In press</h4>
+<h2>Published/In press</h2>
 <ol reversed="">
 <li><a href="https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000058">Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020.</a>
 Riou J, Althaus CL.
