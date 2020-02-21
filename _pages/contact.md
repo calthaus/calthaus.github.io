@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Contact"
+permalink: /contact/
+author_profile: true
+---
+
+{% include base_path %}
+
 PD Dr. Christian L. Althaus, Ph.D.
 
 [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch)
