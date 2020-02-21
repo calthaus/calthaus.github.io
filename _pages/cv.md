@@ -14,12 +14,8 @@ redirect_from:
 	* Habilitation, Epidemiology of infectious diseases, 2017
 * **Utrecht University, Utrecht, The Netherlands**
 	* Ph.D., Theoretical Biology, 2005 - 2009
-	* Thesis: Quantifying the dynamics of viruses and the cellular immune response of the host
-	* Supervisor: Prof. Rob J. De Boer
 * **ETH Zürich, Zürich, Switzerland**
 	* Dipl. Natw. ETH, Biology, 1998 - 2004
-	* Thesis: Effects of recombination and epistatic selection in HIV-1
-	* Supervisor: Prof. Sebastian Bonhoeffer
 * **Humboldt-Universität zu Berlin, Berlin, Germany**
 	* Erasmus exchange programme, 2002
 
