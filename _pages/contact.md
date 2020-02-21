@@ -10,7 +10,7 @@ author_profile: true
 PD Dr. Christian L. Althaus, Ph.D.
 
 [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch)  
-[University of Bern](https:/www.unibe.ch)  
+University of Bern  
 Mittelstrasse 43  
 3012 Bern  
 Switzerland
