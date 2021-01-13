@@ -5,42 +5,52 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Preprints/Under review</h2>
-<ul>
- <li><a href="https://doi.org/10.1101/19012674">Impact and cost-effectiveness of nonavalent human papillomavirus vaccination in Switzerland: insights from a dynamic transmission model.</a>  
-Riesen M, Bogaards JA, Low N, Althaus CL.  
-<a href="https://github.com/mauraner/HPV_vacc_costeffect_Switzerland">Data &amp; R code on GitHub</a></li>
- 	<li><a href="https://doi.org/10.1101/321216">De novo mutations drive the spread of macrolide resistant Mycoplasma genitalium: mathematical modelling study.</a>  
-Cadosch D, Garcia V, Althaus CL, Jensen JS, Low N.  
-<a href="https://github.com/calthaus/MG-resistance">Data &amp; R code on GitHub</a></li>
- 	<li><a href="https://doi.org/10.7287/peerj.preprints.940">How sex acts scale with the number of sex partners: evidence from Chlamydia trachomatis data and implications for control.</a>  
-Althaus CL, Choisy M, Alizon S, CSF group.</li>
-</ul>
+See <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Published/In press</h2>
+<h2>Published (updated: 13 Jan 2021)</h2>
 <ol reversed="">
+<li><a href="https://doi.org/10.4414/smw.2020.20457">Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland.</a>
+Salathé M, Althaus C, Anderegg N, Antonioli D, Ballouz T, Bugnon E, Čapkun S, Jackson D, Kim SI, Larus J, Low N, Lueks W, Menges D, Moullet C, Payer M, Riou J, Stadler T, Troncoso C, Vayena E, von Wyl V.
+<strong>Swiss Med Wkly</strong>. 2020 Dec 16;150:w20457.</li>
+<li><a href="https://doi.org/10.1038/s41598-020-76563-8">The approximately universal shapes of epidemic curves in the Susceptible-Exposed-Infectious-Recovered (SEIR) model.</a>
+Heng K, Althaus CL.
+<strong>Sci Rep</strong>. 2020 Nov 9;10(1):19365.</li>
+<li><a href="https://doi.org/10.4414/smw.2020.20336">COVID-19 infectivity profile correction.</a>
+Ashcroft P, Huisman JS, Lehtinen S, Bouman JA, Althaus CL, Regoes RR, Bonhoeffer S.J.
+<strong>Swiss Med Wkly</strong>. 2020 Aug 5;150:w20336.</li>
+<li><a href="https://doi.org/10.1371/journal.pmed.1003189">Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: A modeling study in Hubei, China, and six regions in Europe.</a>
+Hauser A, Counotte MJ, Margossian CC, Konstantinoudis G, Low N, Althaus CL, Riou J.
+<strong>PLoS Med</strong>. 2020 Jul 28;17(7):e1003189.</li>
+<li><a href="https://doi.org/10.1007/s10654-020-00649-w">Dynamic interventions to control COVID-19 pandemic: a multivariate prediction modelling study comparing 16 worldwide countries.</a>
+Chowdhury R, Heng K, Shawon MSR, Goh G, Okonofua D, Ochoa-Rosales C, Gonzalez-Jaramillo V, Bhuiya A, Reidpath D, Prathapan S, Shahzad S, Althaus CL, Gonzalez-Jaramillo N, Franco OH; Global Dynamic Interventions Strategies for COVID-19 Collaborative Group.
+<strong>Eur J Epidemiol</strong>. 2020 May;35(5):389-399.</li>
+<li><a href="https://doi.org/10.7717/peerj.8913">Understanding the spread of de novo and transmitted macrolide-resistance in Mycoplasma genitalium.</a>
+Cadosch D, Garcia V, Jensen JS, Low N, Althaus CL.
+<strong>PeerJ</strong>. 2020 Apr 7;8:e8913.</li>
+<li><a href="https://doi.org/10.1136/bmjopen-2019-034806">Accelerated partner therapy (APT) partner notification for people with Chlamydia trachomatis: protocol for the Limiting Undetected Sexually Transmitted infections to RedUce Morbidity (LUSTRUM) APT cross-over cluster randomised controlled trial.</a>
+Estcourt CS, Howarth AR, Copas A, Low N, Mapp F, Woode Owusu M, Flowers P, Roberts T, Mercer CH, Wayal S, Symonds M, Nandwani R, Saunders J, Johnson AM, Pothoulaki M, Althaus C, Pickering K, McKinnon T, Brice S, Comer A, Tostevin A, Ogwulu CD, Vojt G, Cassell JA.
+<strong>BMJ Open</strong>. 2020 Mar 29;10(3):e034806.</li>
+<li><a href="https://doi.org/10.4414/smw.2020.20225">COVID-19 epidemic in Switzerland: on the importance of testing, contact tracing and isolation.</a>
+Salathé M, Althaus CL, Neher R, Stringhini S, Hodcroft E, Fellay J, Zwahlen M, Senti G, Battegay M, Wilder-Smith A, Eckerle I, Egger M, Low N.
+ <strong>Swiss Med Wkly</strong>. 2020 Mar 19;150:w20225.</li>
+<li><a href="https://doi.org/10.7717/peerj.8434">Gini coefficients for measuring the distribution of sexually transmitted infections among individuals with different levels of sexual activity.</a>
+ Gsteiger S, Low N, Sonnenberg P, Mercer CH, Althaus CL.
+ <strong>PeerJ</strong>. 2020 Jan 20;8:e8434.</li>
 <li><a href="https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000058">Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020.</a>
 Riou J, Althaus CL.
-<strong>Euro Surveill</strong>. 2020;25(4):pii=2000058.
-<a href="https://github.com/jriou/wcov">Data &amp; R code on GitHub</a></li>
- 	<li><a href="https://doi.org/10.1101/438127">Gini coefficients for measuring the distribution of sexually transmitted infections among individuals with different levels of sexual activity.</a>
-Gsteiger S, Low N, Sonnenberg P, Mercer CH, Althaus CL.
-<strong>PeerJ</strong>. 2020 8:e8434.
-<a href="https://github.com/calthaus/gini">Data &amp; R code on GitHub</a></li>
- 	<li><a href="https://doi.org/10.1371/journal.pntd.0007978">Impact of age-specific immunity on the timing and burden of the next Zika virus outbreak.</a>
-Counotte MJ, Althaus CL, Low N, Riou J.
-<strong>PLoS Negl Trop Dis</strong>. 2019 Dec 26;13(12):e0007978.
-<a href="https://github.com/ZikaProject/SeroProject">Data &amp; R code on GitHub</a></li>
- 	<li><a href="https://doi.org/10.1016/j.epidem.2019.100373">Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015.</a>
+<strong>Euro Surveill</strong>. 2020 Jan;25(4):2000058.</li>
+<li><a href="https://doi.org/10.1016/j.epidem.2019.100373">Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015.</a>
 Brugger J, Althaus CL.
-<strong>Epidemics</strong>. 2019 Oct 10:100373.</li>
- 	<li><a href="https://doi.org/10.1136/sextrans-2019-054057">Rise and fall of the new variant of Chlamydia trachomatis in Sweden: mathematical modelling study.</a>
-Smid J, Althaus CL, Low N, Unemo M, Herrmann B.
-<strong>Sex Transm Infect</strong>. 2019 Oct 5. pii: sextrans-2019-054057.</li>
+<strong>Epidemics</strong>. 2020 Mar;30:100373.</li>
+<li><a href="10.1136/sextrans-2019-054057">Rise and fall of the new variant of Chlamydia trachomatis in Sweden: mathematical modelling study.</a>
+Smid JH, Althaus CL, Low N, Unemo M, Herrmann B.
+<strong>Sex Transm Infect</strong>. 2020 Aug;96(5):375-379.</li>
+<li><a href="https://doi.org/10.1371/journal.pntd.0007978">Impact of age-specific immunity on the timing and burden of the next Zika virus outbreak.</a>
+Counotte MJ, Althaus CL, Low N, Riou J.
+<strong>PLoS Negl Trop Dis</strong>. 2019 Dec 26;13(12):e0007978.</li>
  	<li><a href="https://doi.org/10.1038/s41598-019-44003-x">Discrepancies between observed data and predictions from mathematical modelling of the impact of screening interventions on Chlamydia trachomatis prevalence.</a>
 Smid J, Althaus CL, Low N.
-<strong>Sci Rep</strong>. 2019 May 17;9(1):7547.
-<a href="https://github.com/calthaus/ct-screening">Data &amp; R code on GitHub</a></li>
+<strong>Sci Rep</strong>. 2019 May 17;9(1):7547.</li>
  	<li><a href="https://doi.org/10.1002/jrsm.1333">The use of mathematical modelling studies for evidence synthesis and guideline development: a glossary.</a>
 Porgo TV, Norris SL, Salanti G, Johnson LF, Simpson JA, Low N, Egger M, Althaus CL.
 <strong>Res Synth Methods</strong>. 2019 Mar;10(1):125-133.</li>
@@ -55,8 +65,7 @@ Smid J, Garcia V, Low N, Mercer CH, Althaus CL.
 <strong>Epidemics</strong>. 2018 Mar 31. pii: S1755-4365(17)30149-4.</li>
  	<li><a href="https://doi.org/10.1016/j.vaccine.2017.10.103">Modeling the consequences of regional heterogeneity in human papillomavirus (HPV) vaccination uptake on transmission in Switzerland.</a>
 Riesen M, Garcia V, Low N, Althaus CL.
-<strong>Vaccine</strong>. 2017 Dec 19;35(52):7312-7321.
-<a href="https://github.com/calthaus/HPV-regional-vaccine-heterogeneity-model">Data &amp; R code on GitHub</a></li>
+<strong>Vaccine</strong>. 2017 Dec 19;35(52):7312-7321.</li>
  	<li><a href="https://doi.org/10.1371/journal.pmed.1002423">Fitness cost and benefit of antimicrobial resistance in Neisseria gonorrhoeae: Multidisciplinary approaches are needed.</a>
 Unemo M, Althaus CL.
 <strong>PLoS Med</strong>. 2017 Oct 31;14(10):e1002423.</li>
@@ -65,12 +74,10 @@ Egger M, Johnson L, Althaus C, Schöni A, Salanti G, Low N, Norris SL.
 <strong>F1000Res</strong>. 2017 Aug 29;6:1584.</li>
  	<li><a href="https://doi.org/10.1186/s12916-017-0881-x">Detection of antibiotic resistance is essential for gonorrhoea point-of-care testing: a mathematical modelling study.</a>
 Fingerhuth SM, Low N, Bonhoeffer S, Althaus CL.
-<strong>BMC Med</strong>. 2017 Jul 26;15(1):142.
-<a href="https://github.com/calthaus/NG-POC-resistance">Data &amp; R code on GitHub</a></li>
+<strong>BMC Med</strong>. 2017 Jul 26;15(1):142.</li>
  	<li><a href="https://doi.org/10.1093/jac/dkx113">A new rapid resazurin-based microdilution assay for antimicrobial susceptibility testing of Neisseria gonorrhoeae.</a>
 Foerster S, Desilvestro V, Hathaway LJ, Althaus CL, Unemo M.
-<strong>J Antimicrob Chemother</strong>. 2017 Jul 1;72(7):1961-1968.
-<a href="https://github.com/calthaus/ResazurinMIC">Data &amp; R code on GitHub</a></li>
+<strong>J Antimicrob Chemother</strong>. 2017 Jul 1;72(7):1961-1968.</li>
  	<li><a href="https://doi.org/10.1371/journal.pmed.1002157">How relevant is sexual transmission of Zika virus?</a>
 Althaus CL, Low N.
 <strong>PLOS Med</strong>. 2016 Oct;13(10): e1002157.</li>
@@ -80,42 +87,34 @@ In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Hea
 <a href="https://doi.org/10.7892/boris.91589">Post-print on BORIS</a></li>
  	<li><a href="https://doi.org/10.1186/s12866-016-0838-9">Time-kill curve analysis and pharmacodynamic modelling for in vitro evaluation of antimicrobials against <em>Neisseria gonorrhoeae</em>.</a>
 Foerster S, Unemo M, Hathaway LJ, Low N, Althaus CL.
-<strong>BMC Microbiol</strong>. 2016 Sep 17;16(1):216.
-<a href="https://github.com/calthaus/PDfunction">Data &amp; R code on GitHub</a></li>
+<strong>BMC Microbiol</strong>. 2016 Sep 17;16(1):216.</li>
  	<li><a href="https://doi.org/10.1371/journal.pntd.0004867">Heterogeneity in district-level transmission of Ebola virus disease during the 2013-2015 epidemic in West Africa.</a>
 Krauer F, Gsteiger S, Low N, Hansen CH, Althaus CL.
 <strong>PLOS Negl Trop Dis</strong>. 2016 Jul;10(7): e0004867.</li>
  	<li><a href="https://doi.org/10.1371/journal.ppat.1005611">Antibiotic-resistant Neisseria gonorrhoeae spread faster with more treatment, not more sexual partners.</a>
 Fingerhuth SM, Bonhoeffer S, Low N, Althaus CL.
-<strong>PLOS Pathog</strong>. 2016 May;12(5): e1005611.
-<a href="https://github.com/calthaus/NG-resistance-spread">Data &amp; R code on GitHub</a></li>
+<strong>PLOS Pathog</strong>. 2016 May;12(5): e1005611.</li>
  	<li><a href="https://doi.org/10.1371/journal.pntd.0004676">Potential impact of sexual transmission on Ebola virus epidemiology: Sierra Leone as a case study.</a>
 Abbate JL, Murall CL, Richner H, Althaus CL.
-<strong>PLOS Negl Trop Dis</strong>. 2016 May;10(5): e0004676.
-<a href="https://github.com/calthaus/ebola">Data &amp; R code on GitHub</a></li>
+<strong>PLOS Negl Trop Dis</strong>. 2016 May;10(5): e0004676.</li>
  	<li><a href="https://doi.org/10.3389/fmicb.2015.01377">Genetic resistance determinants, in vitro time-kill curve analysis and pharmacodynamic functions for the novel topoisomerase II inhibitor ETX0914 (AZD0914) in Neisseria gonorrhoeae.</a>
 Foerster S, Golparian D, Jacobsson S, Hathaway LJ, Low N, Shafer WM, Althaus CL, Unemo M.
 <strong>Front Microbiol</strong>. 2015;6:1377.</li>
  	<li><a href="https://doi.org/10.7717/peerj.1418">Rapid drop in the reproduction number during the Ebola outbreak in the Democratic Republic of Congo.</a>
 Althaus CL.
-<strong>PeerJ</strong>. 2015 Nov 19;3:e1418.
-<a href="http://pub.drawscience.org/2015/11/althaus/">Infographics</a>
-<a href="https://github.com/calthaus/ebola">Data &amp; R code on GitHub</a></li>
+<strong>PeerJ</strong>. 2015 Nov 19;3:e1418.</li>
  	<li><a href="https://doi.org/10.3201/eid2108.150284">Measles vaccination coverage and cases among vaccinated persons.</a>
 Althaus CL, Salathé M.
 <strong>Emerg Infect Dis</strong>. 2015 Aug;21(8):1480-1481.</li>
  	<li><a href="https://doi.org/10.2807/1560-7917.ES2015.20.25.21167">The role of superspreading in Middle East respiratory syndrome coronavirus (MERS-CoV) transmission.</a>
 Kucharski AJ, Althaus CL.
-<strong>Euro Surveill</strong>. 2015;20(25):pii=21167(25).
-<a href="https://github.com/calthaus/MERS">Data &amp; R code on GitHub</a></li>
+<strong>Euro Surveill</strong>. 2015;20(25):pii=21167(25).</li>
  	<li><a href="https://doi.org/10.1016/j.epidem.2015.03.001">Ebola virus disease outbreak in Nigeria: Transmission dynamics and rapid control.</a>
 Althaus CL, Low N, Musa EO, Shuaib F, Gsteiger S.
-<strong>Epidemics</strong>. 2015 Jun;11:80-4.
-<a href="https://github.com/calthaus/ebola">Data &amp; R code on GitHub</a></li>
+<strong>Epidemics</strong>. 2015 Jun;11:80-4.</li>
  	<li><a href="https://doi.org/10.1016/S1473-3099(15)70135-0">Ebola superspreading.</a>
 Althaus CL.
-<strong>Lancet Infect Dis</strong>. 2015 May;15(5):507-8.
-<a href="https://github.com/calthaus/ebola">Data &amp; R code on GitHub</a></li>
+<strong>Lancet Infect Dis</strong>. 2015 May;15(5):507-8.</li>
  	<li><a href="https://doi.org/10.3389/fmicb.2015.00355">Of mice, macaques and men: scaling of virus dynamics and immune responses.</a>
 Althaus CL.
 <strong>Front Microbiol</strong>. 2015 Apr 23;6:355.</li>
@@ -124,13 +123,10 @@ Althaus CL, Joos B, Perelson AS, Günthard HF.
 <strong>PLOS Comput Biol</strong>. 2014 Oct;10(10): e1003871.</li>
  	<li><a href="https://doi.org/10.1371/currents.outbreaks.91afb5e0f279e7f29e7056095255b288" target="_blank" rel="noopener noreferrer">Estimating the reproduction number of Ebola virus (EVOB) during the 2014 outbreak in West Africa.</a>
 Althaus CL.
-<strong>PLOS Curr</strong>. 2014 Sep 2;6.
-<a href="https://doi.org/10.7892/boris.58891">Post-print on BORIS</a>
-<a href="https://github.com/calthaus/ebola">Data &amp; R code on GitHub</a></li>
+<strong>PLOS Curr</strong>. 2014 Sep 2;6.</li>
  	<li><a href="https://doi.org/10.1136/sextrans-2013-051279">Reinfection by untreated partners of people treated for Chlamydia trachomatis and Neisseria gonorrhoeae: mathematical modelling study.</a>
 Low N, Heijne JC,&nbsp;Herzog SA, Althaus CL.
-<strong>Sex Transm Infect</strong>. 2014 May;90(3):254-6.
-<a href="https://doi.org/10.7892/boris.41848">Post-print on BORIS</a></li>
+<strong>Sex Transm Infect</strong>. 2014 May;90(3):254-6.</li>
  	<li><a href="https://doi.org/10.3310/hta18020" target="_blank" rel="noopener noreferrer">Effectiveness and cost-effectiveness of traditional and new partner notification technologies for curable sexually transmitted infections: observational study, systematic reviews and mathematical modelling.</a>
 Althaus CL, Turner KM, Mercer CH, Auguste P, Roberts TE, Bell G, Herzog SA, Cassell JA, Edmunds WJ, White PJ, Ward H, Low N.
 <strong>Health Technol Assess</strong>. 2014 Jan;18(2):1-100.</li>
@@ -139,12 +135,10 @@ Herzog SA, Heijne JC, Scott P,&nbsp;Althaus CL, Low N.
 <strong>Epidemiology</strong>. 2013 Nov;24(6):854-62.</li>
  	<li><a href="https://doi.org/10.1016/j.jtbi.2013.04.010" target="_blank" rel="noopener noreferrer">Case and partnership reproduction numbers for a curable sexually transmitted infection.</a>
 Heijne JC,&nbsp;Herzog SA, Althaus CL, Low N, Kretzschmar M.
-<strong>J Theor Biol</strong>. 2013 Apr 19;331C:38-47.
-<a href="https://doi.org/10.7892/boris.41855">Post-print on BORIS</a></li>
+<strong>J Theor Biol</strong>. 2013 Apr 19;331C:38-47.</li>
  	<li><a href="https://doi.org/10.1136/sextrans-2011-050468" target="_blank" rel="noopener noreferrer">Insights into the timing of repeated testing after treatment for Chlamydia trachomatis: data and modelling study.</a>
 Heijne JC, Herzog SA,&nbsp;Althaus CL, Tao G, Kent C, Low N.
-<strong>Sex Transm Infect</strong>. 2013 Feb;89(1):57-62.
-<a href="https://doi.org/10.7892/boris.14384">Post-print on BORIS</a></li>
+<strong>Sex Transm Infect</strong>. 2013 Feb;89(1):57-62.</li>
  	<li><a href="https://doi.org/10.1371/journal.pone.0051438" target="_blank" rel="noopener noreferrer">Individual and population level effects of partner notification for Chlamydia trachomatis.</a>
 Althaus CL, Heijne JC,&nbsp;Herzog SA, Roellin A, Low N.
 <strong>PLoS One</strong>. 2012;7(12):e51438.</li>
@@ -171,8 +165,7 @@ Althaus CL, Turner KM, Schmid BV, Heijne JC, Kretzschmar M, Low N.
 <strong>J Infect Dis.</strong> 2011 Feb 1;203(3):372-7.</li>
  	<li><a href="https://doi.org/10.1016/j.epidem.2010.04.002" target="_blank" rel="noopener noreferrer">Transmission dynamics of Chlamydia trachomatis affect the impact of screening programmes.
 </a>Althaus CL, Heijne JCM, Roellin A, Low N.
-<strong>Epidemics.</strong> 2010 Sep;2(3):123-31.
-<a href="https://doi.org/10.7892/boris.1316">Post-print on BORIS</a></li>
+<strong>Epidemics.</strong> 2010 Sep;2(3):123-31.</li>
  	<li><a href="https://doi.org/10.1038/msb.2010.4" target="_blank" rel="noopener noreferrer">Intracellular transactivation of HIV can account for the decelerating decay of virus load during drug therapy.
 </a>Althaus CL, De Boer RJ.
 <strong>Mol Syst Biol.</strong> 2010; 6:348.</li>
