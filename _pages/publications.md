@@ -7,7 +7,7 @@ author_profile: true
 
 See <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Published (updated: 13 Jan 2021)</h2>
+<h2>Publication list (updated: 13 Jan 2021)</h2>
 <ol reversed="">
 <li><a href="https://doi.org/10.4414/smw.2020.20457">Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland.</a>
 Salathé M, Althaus C, Anderegg N, Antonioli D, Ballouz T, Bugnon E, Čapkun S, Jackson D, Kim SI, Larus J, Low N, Lueks W, Menges D, Moullet C, Payer M, Riou J, Stadler T, Troncoso C, Vayena E, von Wyl V.
