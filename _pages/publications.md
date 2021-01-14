@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-See <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
+See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=althaus+cl%5BAuthor%5D+OR+33327003+32229523+29552335&sort=date&size=100>PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
 <h2>Publication list (updated: 13 Jan 2021)</h2>
 <ol reversed="">
@@ -42,7 +42,7 @@ Riou J, Althaus CL.
 <li><a href="https://doi.org/10.1016/j.epidem.2019.100373">Transmission of and susceptibility to seasonal influenza in Switzerland from 2003 to 2015.</a>
 Brugger J, Althaus CL.
 <strong>Epidemics</strong>. 2020 Mar;30:100373.</li>
-<li><a href="10.1136/sextrans-2019-054057">Rise and fall of the new variant of Chlamydia trachomatis in Sweden: mathematical modelling study.</a>
+<li><a href="https://doi.org/10.1136/sextrans-2019-054057">Rise and fall of the new variant of Chlamydia trachomatis in Sweden: mathematical modelling study.</a>
 Smid JH, Althaus CL, Low N, Unemo M, Herrmann B.
 <strong>Sex Transm Infect</strong>. 2020 Aug;96(5):375-379.</li>
 <li><a href="https://doi.org/10.1371/journal.pntd.0007978">Impact of age-specific immunity on the timing and burden of the next Zika virus outbreak.</a>
