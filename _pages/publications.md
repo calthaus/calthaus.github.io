@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=althaus+cl%5BAuthor%5D+OR+33327003+32229523+29552335+NOT+26008829&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
+See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+NOT+26008829&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
 <h2>Publication list (updated: 13 Jan 2021)</h2>
 <ol reversed="">
