@@ -7,8 +7,20 @@ author_profile: true
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+NOT+26008829&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 13 Jan 2021)</h2>
+<h2>Publication list (updated: 13 Jul 2021)</h2>
 <ol reversed="">
+<li><a href="https://doi.org/10.1016/S2468-2667(21)00160-2">Socioeconomic position and the COVID-19 care cascade from testing to mortality in Switzerland: a population-based analysis.</a>
+Riou J, Panczak R, Althaus CL, Junker C, Perisa D, Schneider K, Criscuolo NG, Low N, Egger M.
+<strong>Lancet Public Health</strong>. 2021 Jul 9:S2468-2667(21)00160-2.</li>
+<li><a href="https://doi.org/10.1038/s41598-021-93578-x">Quantifying superspreading for COVID-19 using Poisson mixture distributions.</a>
+Kremer C, Torneri A, Boesmans S, Meuwissen H, Verdonschot S, Vanden Driessche K, Althaus CL, Faes C, Hens N.
+<strong>Sci Rep</strong>. 2021 Jul 8;11(1):14107.</li>
+<li><a href="https://doi.org/10.1038/s41586-021-03677-y">Spread of a SARS-CoV-2 variant through Europe in the summer of 2020.</a>
+Hodcroft EB, Zuber M, Nadeau S, Vaughan TG, Crawford KHD, Althaus CL, Reichmuth ML, Bowen JE, Walls AC, Corti D, Bloom JD, Veesler D, Mateo D, Hernando A, Comas I, González-Candelas F; SeqCOVID-SPAIN consortium, Stadler T, Neher RA.
+<strong>Nature</strong>. 2021 Jun 7.</li>
+<li><a href="https://doi.org/10.1001/jamanetworkopen.2021.8184">A Data-Driven Simulation of the Exposure Notification Cascade for Digital Contact Tracing of SARS-CoV-2 in Zurich, Switzerland.</a>
+Menges D, Aschmann HE, Moser A, Althaus CL, von Wyl V.
+<strong>JAMA Netw Open</strong>. 2021 Apr 1;4(4):e218184.</li>
 <li><a href="https://doi.org/10.4414/smw.2020.20457">Early evidence of effectiveness of digital contact tracing for SARS-CoV-2 in Switzerland.</a>
 Salathé M, Althaus C, Anderegg N, Antonioli D, Ballouz T, Bugnon E, Čapkun S, Jackson D, Kim SI, Larus J, Low N, Lueks W, Menges D, Moullet C, Payer M, Riou J, Stadler T, Troncoso C, Vayena E, von Wyl V.
 <strong>Swiss Med Wkly</strong>. 2020 Dec 16;150:w20457.</li>
