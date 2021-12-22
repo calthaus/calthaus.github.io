@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+NOT+26008829&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
+See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+NOT+26008829&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 13 Jul 2021)</h2>
+<h2>Publication list (updated: 22 Dec 2021)</h2>
 <ol reversed="">
 <li><a href="https://doi.org/10.1038/s41598-021-02622-3"> 
 The epidemic volatility index, a novel early warning tool for identifying new waves in an epidemic.</a>
@@ -20,7 +20,11 @@ Keiser O, Agoritsas T, Althaus CL, Azman AS, de Quervain D, Flahault A, Goutaki 
 <li><a href="https://doi.org/10.1016/j.epidem.2021.100480">Quantification of the spread of SARS-CoV-2 variant B.1.1.7 in Switzerland.</a>
 Chen C, Nadeau SA, Topolsky I, Manceau M, Huisman JS, Jablonski KP, Fuhrmann L, Dreifuss D, Jahn K, Beckmann C, Redondo M, Noppen C, Risch L, Risch M, Wohlwend N, Kas S, Bodmer T, Roloff T, Stange M, Egli A, Eckerle I, Kaiser L, Denes R, Feldkamp M, Nissen I, Santacroce N, Burcklen E, Aquino C, de Gouvea AC, Moccia MD, Grüter S, Sykes T, Opitz L, White G, Neff L, Popovic D, Patrignani A, Tracy J, Schlapbach R, Dermitzakis ET, Harshman K, Xenarios I, Pegeot H, Cerutti L, Penet D, Blin A, Elies M, Althaus CL, Beisel C, Beerenwinkel N, Ackermann M, Stadler T.
 <strong>Epidemics</strong>. 2021 Dec;37:100480.</li>
- <li><a href="https://doi.org/10.1016/S2468-2667(21)00160-2">Socioeconomic position and the COVID-19 care cascade from testing to mortality in Switzerland: a population-based analysis.</a>
+<li><a href="https://doi.org/10.1186/s12879-021-06757-6"> 
+Drivers of HIV-1 drug resistance to non-nucleoside reverse-transcriptase inhibitors (NNRTIs) in nine southern African countries: a modelling study.</a>
+Riou J, Dupont C, Bertagnolio S, Gupta RK, Kouyos RD, Egger M, L Althaus C.
+ <strong>BMC Infect Dis</strong>. 2021 Oct 7;21(1):1042.</li>
+<li><a href="https://doi.org/10.1016/S2468-2667(21)00160-2">Socioeconomic position and the COVID-19 care cascade from testing to mortality in Switzerland: a population-based analysis.</a>
 Riou J, Panczak R, Althaus CL, Junker C, Perisa D, Schneider K, Criscuolo NG, Low N, Egger M.
 <strong>Lancet Public Health</strong>. 2021 Jul 9:S2468-2667(21)00160-2.</li>
 <li><a href="https://doi.org/10.1038/s41598-021-93578-x">Quantifying superspreading for COVID-19 using Poisson mixture distributions.</a>
