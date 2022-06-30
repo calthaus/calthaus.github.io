@@ -9,10 +9,22 @@ See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+333
 
 <h2>Publication list (updated: 19 Jan 2022)</h2>
 <ol reversed="">
+<li><a href="https://doi.org/10.1038/s41591-022-01911-2"> 
+Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa.</a>
+Tegally H, Moir M, Everatt J, Giovanetti M, Scheepers C, Wilkinson E, Subramoney K, Makatini Z, Moyo S, Amoako DG, Baxter C, Althaus CL, Anyaneji UJ, Kekana D, Viana R, Giandhari J, Lessells RJ, Maponga T, Maruapula D, Choga W, Matshaba M, Mbulawa MB, Msomi N; NGS-SA consortium, Naidoo Y, Pillay S, Sanko TJ, San JE, Scott L, Singh L, Magini NA, Smith-Lawrence P, Stevens W, Dor G, Tshiabuila D, Wolter N, Preiser W, Treurnicht FK, Venter M, Chiloane G, McIntyre C, O'Toole A, Ruis C, Peacock TP, Roemer C, Pond SLK, Williamson C, Pybus OG, Bhiman JN, Glass A, Martin DP, Jackson B, Rambaut A, Laguda-Akingba O, Gaseitsiwe S, von Gottberg A, de Oliveira T.
+ <strong>Nat Med</strong>. 2022 Jun 27.</li>
+<li><a href="https://doi.org/10.4414/smw.2022.w30163"> 
+Assessing real-world vaccine effectiveness against severe forms of SARS-CoV-2 infection: an observational study from routine surveillance data in Switzerland.</a>
+Anderegg N, Althaus CL, Colin S, Hauser A, Laube A, Mäusezahl M, Wagner M, Zaffora B, Riou J.
+<strong>Swiss Med Wkly</strong>. 2022 Apr 19;152:w30163.</li>
+<li><a href="https://doi.org/10.1093/ve/veac024"> 
+Replacement of the Gamma by the Delta variant in Brazil: Impact of lineage displacement on the ongoing pandemic..</a>
+Giovanetti M, Fonseca V, Wilkinson E, Tegally H, San EJ, Althaus CL, Xavier J, Nanev Slavov S, Viala VL, Ranieri Jerônimo Lima A, Ribeiro G, Souza-Neto JA, Fukumasu H, Lehmann Coutinho L, Venancio da Cunha R, Freitas C, Campelo de A E Melo CF, Navegantes de Araújo W, Do Carmo Said RF, Almiron M, de Oliveira T, Coccuzzo Sampaio S, Elias MC, Covas DT, Holmes EC, Lourenço J, Kashima S, de Alcantara LCJ.
+<strong>Virus Evol</strong>. 2022 Mar 18;8(1):veac024.</li>
 <li><a href="https://doi.org/10.1038/s41586-022-04411-y"> 
 Rapid epidemic expansion of the SARS-CoV-2 Omicron variant in southern Africa.</a>
 Viana R, Moyo S, Amoako DG, Tegally H, Scheepers C, Althaus CL, Anyaneji UJ, Bester PA, Boni MF, Chand M, Choga WT, Colquhoun R, Davids M, Deforche K, Doolabh D, du Plessis L, Engelbrecht S, Everatt J, Giandhari J, Giovanetti M, Hardie D, Hill V, Hsiao NY, Iranzadeh A, Ismail A, Joseph C, Joseph R, Koopile L, Kosakovsky Pond SL, Kraemer MUG, Kuate-Lere L, Laguda-Akingba O, Lesetedi-Mafoko O, Lessells RJ, Lockman S, Lucaci AG, Maharaj A, Mahlangu B, Maponga T, Mahlakwane K, Makatini Z, Marais G, Maruapula D, Masupu K, Matshaba M, Mayaphi S, Mbhele N, Mbulawa MB, Mendes A, Mlisana K, Mnguni A, Mohale T, Moir M, Moruisi K, Mosepele M, Motsatsi G, Motswaledi MS, Mphoyakgosi T, Msomi N, Mwangi PN, Naidoo Y, Ntuli N, Nyaga M, Olubayo L, Pillay S, Radibe B, Ramphal Y, Ramphal U, San JE, Scott L, Shapiro R, Singh L, Smith-Lawrence P, Stevens W, Strydom A, Subramoney K, Tebeila N, Tshiabuila D, Tsui J, van Wyk S, Weaver S, Wibmer CK, Wilkinson E, Wolter N, Zarebski AE, Zuze B, Goedhals D, Preiser W, Treurnicht F, Venter M, Williamson C, Pybus OG, Bhiman J, Glass A, Martin DP, Rambaut A, Gaseitsiwe S, von Gottberg A, de Oliveira T.
- <strong>Nature</strong>. 2022 Jan 7.</li>
+ <strong>Nature</strong>. 2022 Mar;603(7902):679-686.</li>
 <li><a href="https://doi.org/10.1038/s41598-021-02622-3"> 
 The epidemic volatility index, a novel early warning tool for identifying new waves in an epidemic.</a>
 Kostoulas P, Meletis E, Pateras K, Eusebi P, Kostoulas T, Furuya-Kanamori L, Speybroeck N, Denwood M, Doi SAR, Althaus CL, Kirkeby C, Rohani P, Dhand NK, Peñalvo JL, Thabane L, BenMiled S, Sharifi H, Walter SD.
