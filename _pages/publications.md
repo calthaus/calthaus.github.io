@@ -7,7 +7,7 @@ author_profile: true
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 19 Jan 2022)</h2>
+<h2>Publication list (updated: 30 Jun 2022)</h2>
 <ol reversed="">
 <li><a href="https://doi.org/10.1038/s41591-022-01911-2"> 
 Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa.</a>
