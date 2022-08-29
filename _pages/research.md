@@ -9,7 +9,7 @@ author_profile: true
 
 ## Ongoing projects
 
-- (EpiPose - Epidemic intelligence to minimize COVID-19's public health, societal and economical impact)[https://www.uhasselt.be/en/aparte-sites-partner-en/epipose]
+- [EpiPose - Epidemic intelligence to minimize COVID-19's public health, societal and economical impact](https://www.uhasselt.be/en/aparte-sites-partner-en/epipose)
   - Funding: EU Horizon 2020 research and innovation programme
  
 - Tracking the COVID-19 epidemic in Switzerland: phylogenetics and epidemiological modeling
