@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "At the interface of basic research and public health"
+title: "Using mathematical modeling and data science to tackle the public health challenges of the 21st century"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
