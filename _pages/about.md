@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-> I use mathematical modeling and data science to tackle the public health challenges of the 21st century.
+> «I use mathematical modeling and data science to tackle the public health challenges of the 21st century.»
  
 PD Dr. Christian L. Althaus is a computational epidemiologist and head of the [Interfaculty Platform for Data and Computational Science (INPUT)](https://www.ispm.unibe.ch/research/research_groups/input/index_eng.html) at the [Institute of Social and Preventive Medicine (ISPM)](https://www.ispm.unibe.ch) at the [University of Bern](https://www.unibe.ch) at the University of Bern, Switzerland. He is also a member of the directorate of ISPM.
 
