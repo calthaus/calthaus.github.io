@@ -9,6 +9,7 @@ author_profile: true
 
 ## TV
 <iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:video:78389ac0-b5f1-489d-993f-28630b05c448&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
 - [Noch einmal Glück gehabt? – Eine Corona-Zwischenbilanz](https://www.srf.ch/play/tv/redirect/detail/78389ac0-b5f1-489d-993f-28630b05c448) (NZZ Standpunkte, 20.3.2022)
 - [Gredig direkt](https://www.srf.ch/play/tv/redirect/detail/471fd42f-23dc-42e7-8a5a-44e7e0443980) (SRF, 9.12.2021)
 - [2021 – Ein weiteres Corona-Jahr?](https://www.srf.ch/play/tv/redirect/detail/081b9eb1-cf58-47fc-9a29-589be7576273) (SRF Club, 5.1.2021)
@@ -22,7 +23,6 @@ author_profile: true
 - [Der Corona-Talk: Zehn Gespräche mit Christian Althaus über die neuste Entwicklung der Pandemie](https://magazin.nzz.ch/notizen/corona-talk-mit-dem-epidemiologen-christian-althaus-ld.1548957) (NZZ am Sonntag, 2020)
 
 ## Radio
-<iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:f0fda46d-5dc1-40c2-a4d6-c27ee70a49b0&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 - [Corona-Verbreitung verlangsamen, aber wie?](https://www.srf.ch/audio/tagesgespraech/christian-althaus-corona-verbreitung-verlangsamen-aber-wie?id=11727669) (SRF Tagesgespräch, 13.3.2020)
 - [Ebola: Schweizer Forscher berechnen die Gefahr](https://www.srf.ch/wissen/mensch/ebola-schweizer-forscher-berechnen-die-gefahr) (SRF Wissenschaftsmagazin, 6.9.2014)
 
