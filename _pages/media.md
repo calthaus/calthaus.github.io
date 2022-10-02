@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## TV
+<iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:video:78389ac0-b5f1-489d-993f-28630b05c448&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 - [Noch einmal Glück gehabt? – Eine Corona-Zwischenbilanz](https://www.srf.ch/play/tv/redirect/detail/78389ac0-b5f1-489d-993f-28630b05c448) (NZZ Standpunkte, 20.3.2022)
 - [Gredig direkt](https://www.srf.ch/play/tv/redirect/detail/471fd42f-23dc-42e7-8a5a-44e7e0443980) (SRF, 9.12.2021)
 - [2021 – Ein weiteres Corona-Jahr?](https://www.srf.ch/play/tv/redirect/detail/081b9eb1-cf58-47fc-9a29-589be7576273) (SRF Club, 5.1.2021)
