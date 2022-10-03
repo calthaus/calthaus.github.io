@@ -7,7 +7,7 @@ author_profile: true
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 30 Jun 2022)</h2>
+<h2>Publication list (updated: 3 Oct 2022)</h2>
 <ol reversed="">
 <li><a href="https://doi.org/10.1016/S2468-2667(22)00204-3"> 
 Accelerated partner therapy contact tracing for people with chlamydia (LUSTRUM): a crossover cluster-randomised controlled trial.</a>
