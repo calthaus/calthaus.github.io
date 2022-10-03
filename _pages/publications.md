@@ -9,6 +9,10 @@ See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+333
 
 <h2>Publication list (updated: 30 Jun 2022)</h2>
 <ol reversed="">
+<li><a href="https://doi.org/10.1016/S2468-2667(22)00204-3"> 
+Accelerated partner therapy contact tracing for people with chlamydia (LUSTRUM): a crossover cluster-randomised controlled trial.</a>
+Estcourt CS, Stirrup O, Copas A, Low N, Mapp F, Saunders J, Mercer CH, Flowers P, Roberts T, Howarth AR, Owusu MW, Symonds M, Nandwani R, Ogwulu C, Brice S, Johnson AM, Althaus CL, Williams E, Comer-Schwartz A, Tostevin A, Cassell JA.
+<strong>Lancet Public Health</strong>. 2022 Oct;7(10):e853-e865.</li>
 <li><a href="https://doi.org/10.1038/s41591-022-01911-2"> 
 Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa.</a>
 Tegally H, Moir M, Everatt J, Giovanetti M, Scheepers C, Wilkinson E, Subramoney K, Makatini Z, Moyo S, Amoako DG, Baxter C, Althaus CL, Anyaneji UJ, Kekana D, Viana R, Giandhari J, Lessells RJ, Maponga T, Maruapula D, Choga W, Matshaba M, Mbulawa MB, Msomi N; NGS-SA consortium, Naidoo Y, Pillay S, Sanko TJ, San JE, Scott L, Singh L, Magini NA, Smith-Lawrence P, Stevens W, Dor G, Tshiabuila D, Wolter N, Preiser W, Treurnicht FK, Venter M, Chiloane G, McIntyre C, O'Toole A, Ruis C, Peacock TP, Roemer C, Pond SLK, Williamson C, Pybus OG, Bhiman JN, Glass A, Martin DP, Jackson B, Rambaut A, Laguda-Akingba O, Gaseitsiwe S, von Gottberg A, de Oliveira T.
