@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[What exoplanets have to do with the coronavirus](https://www.uniaktuell.unibe.ch/2020/what_exoplanets_have_to_do_with_the_coronavirus)
+[What exoplanets have to do with the coronavirus](https://www.uniaktuell.unibe.ch/2020/what_exoplanets_have_to_do_with_the_coronavirus) (uniaktuell)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/doSjPAjVJjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Ongoing projects
