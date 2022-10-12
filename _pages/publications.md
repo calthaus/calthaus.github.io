@@ -7,8 +7,16 @@ author_profile: true
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 3 Oct 2022)</h2>
+<h2>Publication list (updated: 12 Oct 2022)</h2>
 <ol reversed="">
+<li><a href="https://doi.org/10.1371/journal.pcbi.1010618"> 
+EpiLPS: A fast and flexible Bayesian tool for estimation of the time-varying reproduction number.</a>
+ Gressani O, Wallinga J, Althaus CL, Hens N, Faes C.
+<strong>PLoS Comput Biol</strong>. 2022 Oct 10;18(10):e1010618.</li>
+<li><a href="https://doi.org/10.1186/s12884-022-05076-1"> 
+Pregnancy during COVID-19: social contact patterns and vaccine coverage of pregnant women from CoMix in 19 European countries.</a>
+Wong KLM, Gimma A, Paixao ES; CoMix Europe Working Group, Faes C, Beutels P, Hens N, Jarvis CI, Edmunds WJ.
+<strong>BMC Pregnancy Childbirth</strong>. 2022 Oct 8;22(1):757.</li>
 <li><a href="https://doi.org/10.1016/S2468-2667(22)00204-3"> 
 Accelerated partner therapy contact tracing for people with chlamydia (LUSTRUM): a crossover cluster-randomised controlled trial.</a>
 Estcourt CS, Stirrup O, Copas A, Low N, Mapp F, Saunders J, Mercer CH, Flowers P, Roberts T, Howarth AR, Owusu MW, Symonds M, Nandwani R, Ogwulu C, Brice S, Johnson AM, Althaus CL, Williams E, Comer-Schwartz A, Tostevin A, Cassell JA.
