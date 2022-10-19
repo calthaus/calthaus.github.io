@@ -22,12 +22,12 @@ author_profile: true
   - Funding: Multidisciplinary Center for Infectious Diseases (MCID)
 
 - [ESCAPE - Efficient and rapidly SCAlable EU-wide evidence-driven Pandemic response plans through dynamic Epidemic data assimilation](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101095619/program/43108390/details)
-  - Funding: Horizon Europe
+  - Funding: Horizon Europe and State Secretariat for Education, Research and Innovation (SERI)
 
 ## Completed projects
 
 - [Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study](https://github.com/ISPMBern/comix)
-  - Funding: Swiss Federal Office of Public Health (FOPH)
+  - Funding: Federal Office of Public Health (FOPH)
 
 - [LUSTRUM – Limiting Undetected Sexually Transmitted Infections to RedUce Morbidity](https://www.lustrum.org.uk/)
   - Funding: National Institute for Health Research (NIHR)
