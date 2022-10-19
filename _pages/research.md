@@ -23,7 +23,7 @@ author_profile: true
 
 ## Completed projects
 
-- [Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study](https://www.lustrum.org.uk/)
+- [Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study](https://github.com/ISPMBern/comix)
   - Funding: Swiss Federal Office of Public Health (FOPH)
 
 - [LUSTRUM – Limiting Undetected Sexually Transmitted Infections to RedUce Morbidity](https://www.lustrum.org.uk/)
