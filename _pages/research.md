@@ -13,13 +13,16 @@ author_profile: true
 ## Ongoing projects
 
 - [EpiPose - Epidemic intelligence to minimize COVID-19's public health, societal and economical impact](https://www.uhasselt.be/en/aparte-sites-partner-en/epipose)
-  - Funding: EU Horizon 2020 research and innovation programme
+  - Funding: Horizon 2020
  
 - [Tracking the COVID-19 epidemic in Switzerland: phylogenetics and epidemiological modeling](https://data.snf.ch/grants/grant/196046)
   - Funding: Swiss National Science Foundation (SNSF)
  
 - [Early detection for early action: integrating multiple data sources for monitoring the SARS-CoV-2 epidemic in near real-time](https://www.mcid.unibe.ch/call_for_projects/first_mcid_funded_projects/early_detection_for_early_action_integrating_multiple_data_sources_for_monitoring_the_sars_cov_2_epidemic_in_near_real_time/index_eng.html)
   - Funding: Multidisciplinary Center for Infectious Diseases (MCID)
+
+- [ESCAPE - Efficient and rapidly SCAlable EU-wide evidence-driven Pandemic response plans through dynamic Epidemic data assimilation](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101095619/program/43108390/details)
+  - Funding: Horizon Europe
 
 ## Completed projects
 
