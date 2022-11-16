@@ -24,7 +24,7 @@ Estcourt CS, Stirrup O, Copas A, Low N, Mapp F, Saunders J, Mercer CH, Flowers P
 <li><a href="https://doi.org/10.1038/s41591-022-01911-2"> 
 Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa.</a>
 Tegally H, Moir M, Everatt J, Giovanetti M, Scheepers C, Wilkinson E, Subramoney K, Makatini Z, Moyo S, Amoako DG, Baxter C, Althaus CL, Anyaneji UJ, Kekana D, Viana R, Giandhari J, Lessells RJ, Maponga T, Maruapula D, Choga W, Matshaba M, Mbulawa MB, Msomi N; NGS-SA consortium, Naidoo Y, Pillay S, Sanko TJ, San JE, Scott L, Singh L, Magini NA, Smith-Lawrence P, Stevens W, Dor G, Tshiabuila D, Wolter N, Preiser W, Treurnicht FK, Venter M, Chiloane G, McIntyre C, O'Toole A, Ruis C, Peacock TP, Roemer C, Pond SLK, Williamson C, Pybus OG, Bhiman JN, Glass A, Martin DP, Jackson B, Rambaut A, Laguda-Akingba O, Gaseitsiwe S, von Gottberg A, de Oliveira T.
- <strong>Nat Med</strong>. 2022 Jun 27.</li>
+ <strong>Nat Med</strong>. 2022 Sep;28(9):1785-1790.</li>
 <li><a href="https://doi.org/10.4414/smw.2022.w30163"> 
 Assessing real-world vaccine effectiveness against severe forms of SARS-CoV-2 infection: an observational study from routine surveillance data in Switzerland.</a>
 Anderegg N, Althaus CL, Colin S, Hauser A, Laube A, Mäusezahl M, Wagner M, Zaffora B, Riou J.
@@ -60,7 +60,7 @@ Kremer C, Torneri A, Boesmans S, Meuwissen H, Verdonschot S, Vanden Driessche K,
 <strong>Sci Rep</strong>. 2021 Jul 8;11(1):14107.</li>
 <li><a href="https://doi.org/10.1038/s41586-021-03677-y">Spread of a SARS-CoV-2 variant through Europe in the summer of 2020.</a>
 Hodcroft EB, Zuber M, Nadeau S, Vaughan TG, Crawford KHD, Althaus CL, Reichmuth ML, Bowen JE, Walls AC, Corti D, Bloom JD, Veesler D, Mateo D, Hernando A, Comas I, González-Candelas F; SeqCOVID-SPAIN consortium, Stadler T, Neher RA.
-<strong>Nature</strong>. 2021 Jun 7.</li>
+<strong>Nature</strong>. 2021 Jul;595(7869):707-712.</li>
 <li><a href="https://doi.org/10.1001/jamanetworkopen.2021.8184">A Data-Driven Simulation of the Exposure Notification Cascade for Digital Contact Tracing of SARS-CoV-2 in Zurich, Switzerland.</a>
 Menges D, Aschmann HE, Moser A, Althaus CL, von Wyl V.
 <strong>JAMA Netw Open</strong>. 2021 Apr 1;4(4):e218184.</li>
@@ -111,7 +111,7 @@ Porgo TV, Norris SL, Salanti G, Johnson LF, Simpson JA, Low N, Egger M, Althaus 
 <strong>Res Synth Methods</strong>. 2019 Mar;10(1):125-133.</li>
  	<li><a href="https://doi.org/10.1136/sextrans-2018-053543">Does infection with Chlamydia trachomatis induce long-lasting partial immunity? Insights from mathematical modelling.</a>
 Omori R, Chemaitelly H, Althaus CL, Abu-Raddad LJ.
-<strong>Sex Transm Infect</strong>. 2018 Sep 4. pii: sextrans-2018-053543.</li>
+<strong>Sex Transm Infect</strong>. 2019 Mar;95(2):115-121.</li>
  	<li><a href="https://doi.org/10.1136/bmjopen-2017-021006">Exploring variation in human papillomavirus vaccination uptake in Switzerland: a multilevel spatial analysis of a national vaccination coverage survey.</a>
 Riesen M, Konstantinoudis G, Lang P, Low N, Hatz C, Maeusezahl M, Spaar A, Bühlmann M, Spycher BD, Althaus CL.
 <strong>BMJ Open</strong>. 2018 May 17;8(5):e021006.</li>
@@ -136,9 +136,9 @@ Foerster S, Desilvestro V, Hathaway LJ, Althaus CL, Unemo M.
  	<li><a href="https://doi.org/10.1371/journal.pmed.1002157">How relevant is sexual transmission of Zika virus?</a>
 Althaus CL, Low N.
 <strong>PLOS Med</strong>. 2016 Oct;13(10): e1002157.</li>
- 	<li><a href="https://covid-19.mitpress.mit.edu/pub/k9tv4mwm">4. Modeling the Ebola Epidemic: Challenges and Lessons for the Future.</a>
+ 	<li><a href="https://covid-19.mitpress.mit.edu/pub/k9tv4mwm">Modeling the Ebola epidemic: challenges and lessons for the future.</a>
 Althaus CL.
-In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message</strong>. MIT Press, 2016.</li>
+In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.</li>
  	<li><a href="https://doi.org/10.1186/s12866-016-0838-9">Time-kill curve analysis and pharmacodynamic modelling for in vitro evaluation of antimicrobials against <em>Neisseria gonorrhoeae</em>.</a>
 Foerster S, Unemo M, Hathaway LJ, Low N, Althaus CL.
 <strong>BMC Microbiol</strong>. 2016 Sep 17;16(1):216.</li>
