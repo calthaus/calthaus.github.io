@@ -136,10 +136,9 @@ Foerster S, Desilvestro V, Hathaway LJ, Althaus CL, Unemo M.
  	<li><a href="https://doi.org/10.1371/journal.pmed.1002157">How relevant is sexual transmission of Zika virus?</a>
 Althaus CL, Low N.
 <strong>PLOS Med</strong>. 2016 Oct;13(10): e1002157.</li>
- 	<li><a href="https://mitpress.mit.edu/books/ebolas-message">Modeling the Ebola epidemic: challenges and lessons for the future.</a>
+ 	<li><a href="https://covid-19.mitpress.mit.edu/pub/k9tv4mwm">4. Modeling the Ebola Epidemic: Challenges and Lessons for the Future.</a>
 Althaus CL.
-In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.
-<a href="https://doi.org/10.7892/boris.91589">Post-print on BORIS</a></li>
+In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message</strong>. MIT Press, 2016.</li>
  	<li><a href="https://doi.org/10.1186/s12866-016-0838-9">Time-kill curve analysis and pharmacodynamic modelling for in vitro evaluation of antimicrobials against <em>Neisseria gonorrhoeae</em>.</a>
 Foerster S, Unemo M, Hathaway LJ, Low N, Althaus CL.
 <strong>BMC Microbiol</strong>. 2016 Sep 17;16(1):216.</li>
@@ -190,7 +189,7 @@ Herzog SA, Heijne JC, Scott P,&nbsp;Althaus CL, Low N.
 <strong>Epidemiology</strong>. 2013 Nov;24(6):854-62.</li>
  	<li><a href="https://doi.org/10.1016/j.jtbi.2013.04.010" target="_blank" rel="noopener noreferrer">Case and partnership reproduction numbers for a curable sexually transmitted infection.</a>
 Heijne JC,&nbsp;Herzog SA, Althaus CL, Low N, Kretzschmar M.
-<strong>J Theor Biol</strong>. 2013 Apr 19;331C:38-47.</li>
+<strong>J Theor Biol</strong>. 2013 Aug 21;331:38-47.</li>
  	<li><a href="https://doi.org/10.1136/sextrans-2011-050468" target="_blank" rel="noopener noreferrer">Insights into the timing of repeated testing after treatment for Chlamydia trachomatis: data and modelling study.</a>
 Heijne JC, Herzog SA,&nbsp;Althaus CL, Tao G, Kent C, Low N.
 <strong>Sex Transm Infect</strong>. 2013 Feb;89(1):57-62.</li>
