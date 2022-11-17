@@ -7,8 +7,12 @@ author_profile: true
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 12 Oct 2022)</h2>
+<h2>Publication list (updated: 17 Nov 2022)</h2>
 <ol reversed="">
+<li><a href="https://doi.org/10.1016/j.epidem.2022.100654"> 
+Impact of cross-border-associated cases on the SARS-CoV-2 epidemic in Switzerland during summer 2020 and 2021.</a>
+Reichmuth ML, Hodcroft EB, Riou J, Neher RA, Hens N, Althaus CL.
+<strong>Epidemics</strong>. 2022 Nov;100654.</li>
 <li><a href="https://doi.org/10.1371/journal.pcbi.1010618"> 
 EpiLPS: A fast and flexible Bayesian tool for estimation of the time-varying reproduction number.</a>
  Gressani O, Wallinga J, Althaus CL, Hens N, Faes C.
