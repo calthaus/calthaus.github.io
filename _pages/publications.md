@@ -7,55 +7,78 @@ author_profile: true
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 17 Nov 2022)</h2>
+<h2>Publication list (updated: 9 Jan 2023)</h2>
 <ol reversed="">
+
+<li><a href="https://doi.org/10.1016/j.isci.2023.105928"> 
+Continuous population-level monitoring of SARS-CoV-2 seroprevalence in a large European metropolitan region.</a>
+Emmenegger M, et al.
+<strong> iScience</strong>. 2023.</li>
+
+<li><a href="https://doi.org/10.1038/s41467-022-35770-9"> 
+Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland.</a>
+Riou J, Hauser A, Fesser A, Althaus CL, Egger M, Konstantinoudis G.
+<strong> Nat Commun</strong>. 2023 Jan 6;14(1):90.</li>
+ 
 <li><a href="https://doi.org/10.1016/j.epidem.2022.100654"> 
 Impact of cross-border-associated cases on the SARS-CoV-2 epidemic in Switzerland during summer 2020 and 2021.</a>
 Reichmuth ML, Hodcroft EB, Riou J, Neher RA, Hens N, Althaus CL.
 <strong>Epidemics</strong>. 2022 Nov;100654.</li>
+
 <li><a href="https://doi.org/10.1371/journal.pcbi.1010618"> 
 EpiLPS: A fast and flexible Bayesian tool for estimation of the time-varying reproduction number.</a>
  Gressani O, Wallinga J, Althaus CL, Hens N, Faes C.
 <strong>PLoS Comput Biol</strong>. 2022 Oct 10;18(10):e1010618.</li>
+
 <li><a href="https://doi.org/10.1186/s12884-022-05076-1"> 
 Pregnancy during COVID-19: social contact patterns and vaccine coverage of pregnant women from CoMix in 19 European countries.</a>
 Wong KLM, Gimma A, Paixao ES; CoMix Europe Working Group, Faes C, Beutels P, Hens N, Jarvis CI, Edmunds WJ.
 <strong>BMC Pregnancy Childbirth</strong>. 2022 Oct 8;22(1):757.</li>
+
 <li><a href="https://doi.org/10.1016/S2468-2667(22)00204-3"> 
 Accelerated partner therapy contact tracing for people with chlamydia (LUSTRUM): a crossover cluster-randomised controlled trial.</a>
 Estcourt CS, Stirrup O, Copas A, Low N, Mapp F, Saunders J, Mercer CH, Flowers P, Roberts T, Howarth AR, Owusu MW, Symonds M, Nandwani R, Ogwulu C, Brice S, Johnson AM, Althaus CL, Williams E, Comer-Schwartz A, Tostevin A, Cassell JA.
 <strong>Lancet Public Health</strong>. 2022 Oct;7(10):e853-e865.</li>
+
 <li><a href="https://doi.org/10.1038/s41591-022-01911-2"> 
 Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa.</a>
 Tegally H, Moir M, Everatt J, Giovanetti M, Scheepers C, Wilkinson E, Subramoney K, Makatini Z, Moyo S, Amoako DG, Baxter C, Althaus CL, Anyaneji UJ, Kekana D, Viana R, Giandhari J, Lessells RJ, Maponga T, Maruapula D, Choga W, Matshaba M, Mbulawa MB, Msomi N; NGS-SA consortium, Naidoo Y, Pillay S, Sanko TJ, San JE, Scott L, Singh L, Magini NA, Smith-Lawrence P, Stevens W, Dor G, Tshiabuila D, Wolter N, Preiser W, Treurnicht FK, Venter M, Chiloane G, McIntyre C, O'Toole A, Ruis C, Peacock TP, Roemer C, Pond SLK, Williamson C, Pybus OG, Bhiman JN, Glass A, Martin DP, Jackson B, Rambaut A, Laguda-Akingba O, Gaseitsiwe S, von Gottberg A, de Oliveira T.
- <strong>Nat Med</strong>. 2022 Sep;28(9):1785-1790.</li>
+<strong>Nat Med</strong>. 2022 Sep;28(9):1785-1790.</li>
+
 <li><a href="https://doi.org/10.4414/smw.2022.w30163"> 
 Assessing real-world vaccine effectiveness against severe forms of SARS-CoV-2 infection: an observational study from routine surveillance data in Switzerland.</a>
 Anderegg N, Althaus CL, Colin S, Hauser A, Laube A, Mäusezahl M, Wagner M, Zaffora B, Riou J.
 <strong>Swiss Med Wkly</strong>. 2022 Apr 19;152:w30163.</li>
+
 <li><a href="https://doi.org/10.1093/ve/veac024"> 
 Replacement of the Gamma by the Delta variant in Brazil: Impact of lineage displacement on the ongoing pandemic..</a>
 Giovanetti M, Fonseca V, Wilkinson E, Tegally H, San EJ, Althaus CL, Xavier J, Nanev Slavov S, Viala VL, Ranieri Jerônimo Lima A, Ribeiro G, Souza-Neto JA, Fukumasu H, Lehmann Coutinho L, Venancio da Cunha R, Freitas C, Campelo de A E Melo CF, Navegantes de Araújo W, Do Carmo Said RF, Almiron M, de Oliveira T, Coccuzzo Sampaio S, Elias MC, Covas DT, Holmes EC, Lourenço J, Kashima S, de Alcantara LCJ.
 <strong>Virus Evol</strong>. 2022 Mar 18;8(1):veac024.</li>
+
 <li><a href="https://doi.org/10.1038/s41586-022-04411-y"> 
 Rapid epidemic expansion of the SARS-CoV-2 Omicron variant in southern Africa.</a>
 Viana R, Moyo S, Amoako DG, Tegally H, Scheepers C, Althaus CL, Anyaneji UJ, Bester PA, Boni MF, Chand M, Choga WT, Colquhoun R, Davids M, Deforche K, Doolabh D, du Plessis L, Engelbrecht S, Everatt J, Giandhari J, Giovanetti M, Hardie D, Hill V, Hsiao NY, Iranzadeh A, Ismail A, Joseph C, Joseph R, Koopile L, Kosakovsky Pond SL, Kraemer MUG, Kuate-Lere L, Laguda-Akingba O, Lesetedi-Mafoko O, Lessells RJ, Lockman S, Lucaci AG, Maharaj A, Mahlangu B, Maponga T, Mahlakwane K, Makatini Z, Marais G, Maruapula D, Masupu K, Matshaba M, Mayaphi S, Mbhele N, Mbulawa MB, Mendes A, Mlisana K, Mnguni A, Mohale T, Moir M, Moruisi K, Mosepele M, Motsatsi G, Motswaledi MS, Mphoyakgosi T, Msomi N, Mwangi PN, Naidoo Y, Ntuli N, Nyaga M, Olubayo L, Pillay S, Radibe B, Ramphal Y, Ramphal U, San JE, Scott L, Shapiro R, Singh L, Smith-Lawrence P, Stevens W, Strydom A, Subramoney K, Tebeila N, Tshiabuila D, Tsui J, van Wyk S, Weaver S, Wibmer CK, Wilkinson E, Wolter N, Zarebski AE, Zuze B, Goedhals D, Preiser W, Treurnicht F, Venter M, Williamson C, Pybus OG, Bhiman J, Glass A, Martin DP, Rambaut A, Gaseitsiwe S, von Gottberg A, de Oliveira T.
- <strong>Nature</strong>. 2022 Mar;603(7902):679-686.</li>
+<strong>Nature</strong>. 2022 Mar;603(7902):679-686.</li>
+
 <li><a href="https://doi.org/10.1038/s41598-021-02622-3"> 
 The epidemic volatility index, a novel early warning tool for identifying new waves in an epidemic.</a>
 Kostoulas P, Meletis E, Pateras K, Eusebi P, Kostoulas T, Furuya-Kanamori L, Speybroeck N, Denwood M, Doi SAR, Althaus CL, Kirkeby C, Rohani P, Dhand NK, Peñalvo JL, Thabane L, BenMiled S, Sharifi H, Walter SD.
 <strong>Sci Rep</strong>. 2021 Dec 10;11(1):23775.</li>
+
 <li><a href="https://doi.org/10.4414/smw.2021.w30086"> 
 A public health strategy for SARS-CoV-2, grounded in science, should guide Swiss schools through the coming winter.</a>
 Keiser O, Agoritsas T, Althaus CL, Azman AS, de Quervain D, Flahault A, Goutaki M, Merglen A, Eckerle I.
 <strong>Swiss Med Wkly</strong>. 2021 Oct 14;151:w30086.</li>
+
 <li><a href="https://doi.org/10.1016/j.epidem.2021.100480">Quantification of the spread of SARS-CoV-2 variant B.1.1.7 in Switzerland.</a>
 Chen C, Nadeau SA, Topolsky I, Manceau M, Huisman JS, Jablonski KP, Fuhrmann L, Dreifuss D, Jahn K, Beckmann C, Redondo M, Noppen C, Risch L, Risch M, Wohlwend N, Kas S, Bodmer T, Roloff T, Stange M, Egli A, Eckerle I, Kaiser L, Denes R, Feldkamp M, Nissen I, Santacroce N, Burcklen E, Aquino C, de Gouvea AC, Moccia MD, Grüter S, Sykes T, Opitz L, White G, Neff L, Popovic D, Patrignani A, Tracy J, Schlapbach R, Dermitzakis ET, Harshman K, Xenarios I, Pegeot H, Cerutti L, Penet D, Blin A, Elies M, Althaus CL, Beisel C, Beerenwinkel N, Ackermann M, Stadler T.
 <strong>Epidemics</strong>. 2021 Dec;37:100480.</li>
+
 <li><a href="https://doi.org/10.1186/s12879-021-06757-6"> 
 Drivers of HIV-1 drug resistance to non-nucleoside reverse-transcriptase inhibitors (NNRTIs) in nine southern African countries: a modelling study.</a>
 Riou J, Dupont C, Bertagnolio S, Gupta RK, Kouyos RD, Egger M, L Althaus C.
- <strong>BMC Infect Dis</strong>. 2021 Oct 7;21(1):1042.</li>
+<strong>BMC Infect Dis</strong>. 2021 Oct 7;21(1):1042.</li>
+
 <li><a href="https://doi.org/10.1016/S2468-2667(21)00160-2">Socioeconomic position and the COVID-19 care cascade from testing to mortality in Switzerland: a population-based analysis.</a>
 Riou J, Panczak R, Althaus CL, Junker C, Perisa D, Schneider K, Criscuolo NG, Low N, Egger M.
 <strong>Lancet Public Health</strong>. 2021 Jul 9:S2468-2667(21)00160-2.</li>
