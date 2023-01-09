@@ -12,8 +12,8 @@ See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+333
 
 <li><a href="https://doi.org/10.1016/j.isci.2023.105928"> 
 Continuous population-level monitoring of SARS-CoV-2 seroprevalence in a large European metropolitan region.</a>
-Emmenegger M, et al.
-<strong> iScience</strong>. 2023.</li>
+Emmenegger M, De Cecco E, Lamparter D, Jacquat RPB, Riou J, Menges D, Ballouz T, Ebner D, Schneider MM, Morales IC, Doğançay B, Guo J, Wiedmer A, Domange J, Imeri M, Moos R, Zografou C, Batkitar L, Madrigal L, Schneider D, Trevisan C, Gonzalez-Guerra A, Carrella A, Dubach IL, Xu CK, Meisl G, Kosmoliaptsis V, Malinauskas T, Burgess-Brown N, Owens R, Hatch S, Mongkolsapaya J, Screaton GR, Schubert K, Huck JD, Liu F, Pojer F, Lau K, Hacker D, Probst-Müller E, Cervia C, Nilsson J, Boyman O, Saleh L, Spanaus K, von Eckardstein A, Schaer DJ, Ban N, Tsai CJ, Marino J, Schertler GFX, Ebert N, Thiel V, Gottschalk J, Frey BM, Reimann RR, Hornemann S, Ring AM, Knowles TPJ, Puhan MA, Althaus CL, Xenarios I, Stuart DI, Aguzzi A.
+<strong> iScience</strong>. 2023 Jan 4:105928.</li>
 
 <li><a href="https://doi.org/10.1038/s41467-022-35770-9"> 
 Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland.</a>
