@@ -7,7 +7,7 @@ author_profile: true
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-<h2>Publication list (updated: 9 Jan 2023)</h2>
+<h2>Peer-reviewed publications (updated: 7 Feb 2023)</h2>
 <ol reversed="">
 
 <li><a href="https://doi.org/10.1016/j.isci.2023.105928"> 
@@ -65,11 +65,6 @@ The epidemic volatility index, a novel early warning tool for identifying new wa
 Kostoulas P, Meletis E, Pateras K, Eusebi P, Kostoulas T, Furuya-Kanamori L, Speybroeck N, Denwood M, Doi SAR, Althaus CL, Kirkeby C, Rohani P, Dhand NK, Peñalvo JL, Thabane L, BenMiled S, Sharifi H, Walter SD.
 <strong>Sci Rep</strong>. 2021 Dec 10;11(1):23775.</li>
 
-<li><a href="https://doi.org/10.4414/smw.2021.w30086"> 
-A public health strategy for SARS-CoV-2, grounded in science, should guide Swiss schools through the coming winter.</a>
-Keiser O, Agoritsas T, Althaus CL, Azman AS, de Quervain D, Flahault A, Goutaki M, Merglen A, Eckerle I.
-<strong>Swiss Med Wkly</strong>. 2021 Oct 14;151:w30086.</li>
-
 <li><a href="https://doi.org/10.1016/j.epidem.2021.100480">Quantification of the spread of SARS-CoV-2 variant B.1.1.7 in Switzerland.</a>
 Chen C, Nadeau SA, Topolsky I, Manceau M, Huisman JS, Jablonski KP, Fuhrmann L, Dreifuss D, Jahn K, Beckmann C, Redondo M, Noppen C, Risch L, Risch M, Wohlwend N, Kas S, Bodmer T, Roloff T, Stange M, Egli A, Eckerle I, Kaiser L, Denes R, Feldkamp M, Nissen I, Santacroce N, Burcklen E, Aquino C, de Gouvea AC, Moccia MD, Grüter S, Sykes T, Opitz L, White G, Neff L, Popovic D, Patrignani A, Tracy J, Schlapbach R, Dermitzakis ET, Harshman K, Xenarios I, Pegeot H, Cerutti L, Penet D, Blin A, Elies M, Althaus CL, Beisel C, Beerenwinkel N, Ackermann M, Stadler T.
 <strong>Epidemics</strong>. 2021 Dec;37:100480.</li>
@@ -112,9 +107,6 @@ Cadosch D, Garcia V, Jensen JS, Low N, Althaus CL.
 <li><a href="https://doi.org/10.1136/bmjopen-2019-034806">Accelerated partner therapy (APT) partner notification for people with Chlamydia trachomatis: protocol for the Limiting Undetected Sexually Transmitted infections to RedUce Morbidity (LUSTRUM) APT cross-over cluster randomised controlled trial.</a>
 Estcourt CS, Howarth AR, Copas A, Low N, Mapp F, Woode Owusu M, Flowers P, Roberts T, Mercer CH, Wayal S, Symonds M, Nandwani R, Saunders J, Johnson AM, Pothoulaki M, Althaus C, Pickering K, McKinnon T, Brice S, Comer A, Tostevin A, Ogwulu CD, Vojt G, Cassell JA.
 <strong>BMJ Open</strong>. 2020 Mar 29;10(3):e034806.</li>
-<li><a href="https://doi.org/10.4414/smw.2020.20225">COVID-19 epidemic in Switzerland: on the importance of testing, contact tracing and isolation.</a>
-Salathé M, Althaus CL, Neher R, Stringhini S, Hodcroft E, Fellay J, Zwahlen M, Senti G, Battegay M, Wilder-Smith A, Eckerle I, Egger M, Low N.
- <strong>Swiss Med Wkly</strong>. 2020 Mar 19;150:w20225.</li>
 <li><a href="https://doi.org/10.7717/peerj.8434">Gini coefficients for measuring the distribution of sexually transmitted infections among individuals with different levels of sexual activity.</a>
  Gsteiger S, Low N, Sonnenberg P, Mercer CH, Althaus CL.
  <strong>PeerJ</strong>. 2020 Jan 20;8:e8434.</li>
@@ -148,9 +140,6 @@ Smid J, Garcia V, Low N, Mercer CH, Althaus CL.
  	<li><a href="https://doi.org/10.1016/j.vaccine.2017.10.103">Modeling the consequences of regional heterogeneity in human papillomavirus (HPV) vaccination uptake on transmission in Switzerland.</a>
 Riesen M, Garcia V, Low N, Althaus CL.
 <strong>Vaccine</strong>. 2017 Dec 19;35(52):7312-7321.</li>
- 	<li><a href="https://doi.org/10.1371/journal.pmed.1002423">Fitness cost and benefit of antimicrobial resistance in Neisseria gonorrhoeae: Multidisciplinary approaches are needed.</a>
-Unemo M, Althaus CL.
-<strong>PLoS Med</strong>. 2017 Oct 31;14(10):e1002423.</li>
  	<li><a href="https://doi.org/10.12688/f1000research.12367.2">Developing WHO guidelines: Time to formally include evidence from mathematical modelling studies.</a>
 Egger M, Johnson L, Althaus C, Schöni A, Salanti G, Low N, Norris SL.
 <strong>F1000Res</strong>. 2017 Aug 29;6:1584.</li>
@@ -160,12 +149,6 @@ Fingerhuth SM, Low N, Bonhoeffer S, Althaus CL.
  	<li><a href="https://doi.org/10.1093/jac/dkx113">A new rapid resazurin-based microdilution assay for antimicrobial susceptibility testing of Neisseria gonorrhoeae.</a>
 Foerster S, Desilvestro V, Hathaway LJ, Althaus CL, Unemo M.
 <strong>J Antimicrob Chemother</strong>. 2017 Jul 1;72(7):1961-1968.</li>
- 	<li><a href="https://doi.org/10.1371/journal.pmed.1002157">How relevant is sexual transmission of Zika virus?</a>
-Althaus CL, Low N.
-<strong>PLOS Med</strong>. 2016 Oct;13(10): e1002157.</li>
- 	<li><a href="https://covid-19.mitpress.mit.edu/pub/k9tv4mwm">Modeling the Ebola epidemic: challenges and lessons for the future.</a>
-Althaus CL.
-In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.</li>
  	<li><a href="https://doi.org/10.1186/s12866-016-0838-9">Time-kill curve analysis and pharmacodynamic modelling for in vitro evaluation of antimicrobials against <em>Neisseria gonorrhoeae</em>.</a>
 Foerster S, Unemo M, Hathaway LJ, Low N, Althaus CL.
 <strong>BMC Microbiol</strong>. 2016 Sep 17;16(1):216.</li>
@@ -268,4 +251,36 @@ Althaus CL, Turner KM, Schmid BV, Heijne JC, Kretzschmar M, Low N.
  	<li><a href="https://doi.org/10.1002/bies.10386" target="_blank" rel="noopener noreferrer">Recombination in HIV and the evolution of drug resistance: for better or for worse?
 </a>Bretscher MT, Althaus CL, Müller V, Bonhoeffer S.
 <strong>Bioessays.</strong> 2004 Feb; 26(2): 180-8.</li>
+</ol>
+
+<h2>Contribution to books</h2>
+<ol reversed="">
+<li><a href="https://covid-19.mitpress.mit.edu/pub/k9tv4mwm">Modeling the Ebola epidemic: challenges and lessons for the future.</a>
+Althaus CL.
+In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.</li>
+</ol>
+
+<h2>Other (non peer-reviewed publications, preprints)</h2>
+<ol reversed="">
+<li><a href="http://dx.doi.org/10.48350/175432"> 
+Prüfung des Eskalationsmodells (Art. 6 und 7 EpG) unter besonderer Berücksichtigung der Epidemiologie übertragbarer Krankheiten sowie Public-Health-Aspekten: Thesenpapier im Auftrag des Bundesamtes für Gesundheit (BAG) im Rahmen der Revision des Epidemiengesetzes (EpG).</a>
+Althaus CL, Schlaufer C, Frahsa A, Hadorn S, Sager F, Zwahlen M.
+<strong>Multidisciplinary Center for Infectious Diseases (MCID)</strong>. 2022.</li>
+ <li><a href="https://doi.org/10.4414/smw.2021.w30086"> 
+A public health strategy for SARS-CoV-2, grounded in science, should guide Swiss schools through the coming winter.</a>
+Keiser O, Agoritsas T, Althaus CL, Azman AS, de Quervain D, Flahault A, Goutaki M, Merglen A, Eckerle I.
+<strong>Swiss Med Wkly</strong>. 2021 Oct 14;151:w30086.</li>
+<li><a href="https://doi.org/10.4414/smw.2020.20225">COVID-19 epidemic in Switzerland: on the importance of testing, contact tracing and isolation.</a>
+Salathé M, Althaus CL, Neher R, Stringhini S, Hodcroft E, Fellay J, Zwahlen M, Senti G, Battegay M, Wilder-Smith A, Eckerle I, Egger M, Low N.
+ <strong>Swiss Med Wkly</strong>. 2020 Mar 19;150:w20225.</li>
+<li><a href="https://doi.org/10.1371/journal.pmed.1002423">Fitness cost and benefit of antimicrobial resistance in Neisseria gonorrhoeae: Multidisciplinary approaches are needed.</a>
+Unemo M, Althaus CL.
+<strong>PLoS Med</strong>. 2017 Oct 31;14(10):e1002423.</li>
+<li><a href="https://doi.org/10.1371/journal.pmed.1002157">How relevant is sexual transmission of Zika virus?</a>
+Althaus CL, Low N.
+<strong>PLOS Med</strong>. 2016 Oct;13(10):e1002157.</li>
+ 
+<li><a href="https://doi.org/10.7287/peerj.preprints.940v2">How sex acts scale with the number of sex partners: evidence from Chlamydia trachomatis data and implications for control.</a>
+Althaus CL, Choisy M, Alizon S, the CSF group.
+<strong>PeerJ PrePrints</strong>. 2015;3:e940v2</li>
 </ol>
