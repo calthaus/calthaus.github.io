@@ -9,7 +9,7 @@ See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+333
 
 Updated: 7 Feb 2023
 
-<h2>Peer-reviewed publications</h2>
+<h2>1. Peer-reviewed publications</h2>
 <ol reversed="">
 
 <li><a href="https://doi.org/10.1016/j.isci.2023.105928"> 
@@ -255,14 +255,14 @@ Althaus CL, Turner KM, Schmid BV, Heijne JC, Kretzschmar M, Low N.
 <strong>Bioessays.</strong> 2004 Feb; 26(2): 180-8.</li>
 </ol>
 
-<h2>Contribution to books</h2>
+<h2>2. Contribution to books</h2>
 <ol reversed="">
 <li><a href="https://covid-19.mitpress.mit.edu/pub/k9tv4mwm">Modeling the Ebola epidemic: challenges and lessons for the future.</a>
 Althaus CL.
 In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.</li>
 </ol>
 
-<h2>Other (non peer-reviewed publications, preprints)</h2>
+<h2>3. Other (non peer-reviewed publications, preprints)</h2>
 <ol reversed="">
 <li><a href="http://dx.doi.org/10.48350/175432"> 
 Prüfung des Eskalationsmodells (Art. 6 und 7 EpG) unter besonderer Berücksichtigung der Epidemiologie übertragbarer Krankheiten sowie Public-Health-Aspekten: Thesenpapier im Auftrag des Bundesamtes für Gesundheit (BAG) im Rahmen der Revision des Epidemiengesetzes (EpG).</a>
@@ -281,7 +281,6 @@ Unemo M, Althaus CL.
 <li><a href="https://doi.org/10.1371/journal.pmed.1002157">How relevant is sexual transmission of Zika virus?</a>
 Althaus CL, Low N.
 <strong>PLOS Med</strong>. 2016 Oct;13(10):e1002157.</li>
- 
 <li><a href="https://doi.org/10.7287/peerj.preprints.940v2">How sex acts scale with the number of sex partners: evidence from Chlamydia trachomatis data and implications for control.</a>
 Althaus CL, Choisy M, Alizon S, the CSF group.
 <strong>PeerJ PrePrints</strong>. 2015;3:e940v2</li>
