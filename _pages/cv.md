@@ -21,8 +21,8 @@ redirect_from:
 
 ## Academic Appointments
 * **Institute of Social and Preventive Medicine, University of Bern, Switzerland**
-	* Member of Directorate, 2020 -
-	* Member of Management Board, 2017 - 2020
+	* Member of Directorate, 2021 -
+	* Member of Management Board, 2017 - 2021
 	* Head of Research Group, 2014 -
 	* SNSF Ambizione Research Fellow, 2011 - 2014
 	* Postdoctoral Research Fellow, 2009 - 2011
