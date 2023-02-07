@@ -25,7 +25,7 @@ author_profile: true
   - Funding: Horizon Europe and State Secretariat for Education, Research and Innovation (SERI)
 
 - [Impacts of climate change on health, well-being and performance of humans and animals and on food safety in Switzerland](https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/nccs-impacts/projects.html)
-  - Funding: Federal Office of Public Health (FOPH) and Federal Food Safety and Veterinary Office (FSVO)
+  - Funding: NCCS-Impacts programme - Federal Office of Public Health (FOPH) and Federal Food Safety and Veterinary Office (FSVO)
 
 ## Completed projects
 
