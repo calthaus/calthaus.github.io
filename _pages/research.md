@@ -24,6 +24,9 @@ author_profile: true
 - [ESCAPE - Efficient and rapidly SCAlable EU-wide evidence-driven Pandemic response plans through dynamic Epidemic data assimilation](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101095619/program/43108390/details)
   - Funding: Horizon Europe and State Secretariat for Education, Research and Innovation (SERI)
 
+- [Impacts of climate change on health, well-being and performance of humans and animals and on food safety in Switzerland](https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/nccs-impacts/projects.html)
+  - Funding: Federal Office of Public Health (FOPH) and Federal Food Safety and Veterinary Office (FSVO)
+
 ## Completed projects
 
 - [Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study](https://github.com/ISPMBern/comix)
