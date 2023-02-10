@@ -262,7 +262,7 @@ Althaus CL.
 In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.</li>
 </ol>
 
-<h2>3. Other (non peer-reviewed publications, preprints)</h2>
+<h2>3. Other (non peer-reviewed publications, preprints, reports)</h2>
 <ol reversed="">
  <li><a href="http://dx.doi.org/10.48350/178618"> 
 Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study.</a>
