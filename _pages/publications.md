@@ -264,10 +264,14 @@ In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Hea
 
 <h2>3. Other (non peer-reviewed publications, preprints)</h2>
 <ol reversed="">
-<li><a href="http://dx.doi.org/10.48350/175432"> 
+ <li><a href="http://dx.doi.org/10.48350/178618"> 
+Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study.</a>
+Reichmuth M, Heron L, Low N, Althaus CL.
+<strong>University of Bern, Institute of Social and Preventive Medicine</strong>. 2022.</li>
+ <li><a href="http://dx.doi.org/10.48350/175432"> 
 Prüfung des Eskalationsmodells (Art. 6 und 7 EpG) unter besonderer Berücksichtigung der Epidemiologie übertragbarer Krankheiten sowie Public-Health-Aspekten: Thesenpapier im Auftrag des Bundesamtes für Gesundheit (BAG) im Rahmen der Revision des Epidemiengesetzes (EpG).</a>
 Althaus CL, Schlaufer C, Frahsa A, Hadorn S, Sager F, Zwahlen M.
-<strong>Multidisciplinary Center for Infectious Diseases (MCID)</strong>. 2022.</li>
+<strong>University of Bern, Multidisciplinary Center for Infectious Diseases</strong>. 2022.</li>
  <li><a href="https://doi.org/10.4414/smw.2021.w30086"> 
 A public health strategy for SARS-CoV-2, grounded in science, should guide Swiss schools through the coming winter.</a>
 Keiser O, Agoritsas T, Althaus CL, Azman AS, de Quervain D, Flahault A, Goutaki M, Merglen A, Eckerle I.
