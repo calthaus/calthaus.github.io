@@ -5,22 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
+See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
 Updated: 7 Feb 2023
 
 <h2>1. Peer-reviewed publications</h2>
 <ol reversed="">
 
+<li><a href="https://doi.org/10.1186/s12879-023-08214-y"> 
+Social contact patterns during the COVID-19 pandemic in 21 European countries - evidence from a two-year study.</a>
+Wong KLM, Gimma A, Coletti P; CoMix Europe Working Group; Faes C, Beutels P, Hens N, Jaeger VK, Karch A, Johnson H, Edmunds W, Jarvis CI.
+<strong>BMC Infect Dis</strong>. 2023 Apr 26;23(1):268.</li>
+ 
+<li><a href="https://doi.org/10.1186/s12879-023-08200-4"> 
+Projecting the development of antimicrobial resistance in Neisseria gonorrhoeae from antimicrobial surveillance data: a mathematical modelling study.</a>
+Riou J, Althaus CL, Allen H, Cole MJ, Grad YH, Heijne JCM, Unemo M, Low N.
+<strong>BMC Infect Dis</strong>. 22023 Apr 20;23(1):252.</li>
+ 
 <li><a href="https://doi.org/10.1016/j.isci.2023.105928"> 
 Continuous population-level monitoring of SARS-CoV-2 seroprevalence in a large European metropolitan region.</a>
 Emmenegger M, De Cecco E, Lamparter D, Jacquat RPB, Riou J, Menges D, Ballouz T, Ebner D, Schneider MM, Morales IC, Doğançay B, Guo J, Wiedmer A, Domange J, Imeri M, Moos R, Zografou C, Batkitar L, Madrigal L, Schneider D, Trevisan C, Gonzalez-Guerra A, Carrella A, Dubach IL, Xu CK, Meisl G, Kosmoliaptsis V, Malinauskas T, Burgess-Brown N, Owens R, Hatch S, Mongkolsapaya J, Screaton GR, Schubert K, Huck JD, Liu F, Pojer F, Lau K, Hacker D, Probst-Müller E, Cervia C, Nilsson J, Boyman O, Saleh L, Spanaus K, von Eckardstein A, Schaer DJ, Ban N, Tsai CJ, Marino J, Schertler GFX, Ebert N, Thiel V, Gottschalk J, Frey BM, Reimann RR, Hornemann S, Ring AM, Knowles TPJ, Puhan MA, Althaus CL, Xenarios I, Stuart DI, Aguzzi A.
-<strong> iScience</strong>. 2023 Jan 4:105928.</li>
+<strong>iScience</strong>. 2023 Feb 17;26(2):105928.</li>
 
 <li><a href="https://doi.org/10.1038/s41467-022-35770-9"> 
 Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland.</a>
 Riou J, Hauser A, Fesser A, Althaus CL, Egger M, Konstantinoudis G.
-<strong> Nat Commun</strong>. 2023 Jan 6;14(1):90.</li>
+<strong>Nat Commun</strong>. 2023 Jan 6;14(1):90.</li>
  
 <li><a href="https://doi.org/10.1016/j.epidem.2022.100654"> 
 Impact of cross-border-associated cases on the SARS-CoV-2 epidemic in Switzerland during summer 2020 and 2021.</a>
