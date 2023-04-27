@@ -9,7 +9,7 @@ Updated: 27 Apr 2023
 
 1. [Peer-reviewed publications](#peer-reviewed-publications)
 2. [Contribution to books](#contribution-to-books)
-3. [Other](#other) (non peer-reviewed publications, preprints, reports)
+3. [Other (non peer-reviewed publications, preprints, reports)](#other-non-peer-reviewed-publications-preprints-reports)
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
@@ -276,7 +276,7 @@ Althaus CL.
 In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.</li>
 </ol>
 
-<h2>Other</h2>
+<h2>Other (non peer-reviewed publications, preprints, reports)</h2>
 <ol reversed="">
  <li><a href="http://dx.doi.org/10.48350/178618"> 
 Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study.</a>
