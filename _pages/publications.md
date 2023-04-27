@@ -24,7 +24,7 @@ Wong KLM, Gimma A, Coletti P; CoMix Europe Working Group; Faes C, Beutels P, Hen
 <li><a href="https://doi.org/10.1186/s12879-023-08200-4"> 
 Projecting the development of antimicrobial resistance in Neisseria gonorrhoeae from antimicrobial surveillance data: a mathematical modelling study.</a>
 Riou J, Althaus CL, Allen H, Cole MJ, Grad YH, Heijne JCM, Unemo M, Low N.
-<strong>BMC Infect Dis</strong>. 22023 Apr 20;23(1):252.</li>
+<strong>BMC Infect Dis</strong>. 2023 Apr 20;23(1):252.</li>
  
 <li><a href="https://doi.org/10.1016/j.isci.2023.105928"> 
 Continuous population-level monitoring of SARS-CoV-2 seroprevalence in a large European metropolitan region.</a>
@@ -39,7 +39,7 @@ Riou J, Hauser A, Fesser A, Althaus CL, Egger M, Konstantinoudis G.
 <li><a href="https://doi.org/10.1016/j.epidem.2022.100654"> 
 Impact of cross-border-associated cases on the SARS-CoV-2 epidemic in Switzerland during summer 2020 and 2021.</a>
 Reichmuth ML, Hodcroft EB, Riou J, Neher RA, Hens N, Althaus CL.
-<strong>Epidemics</strong>. 2022 Nov;100654.</li>
+<strong>Epidemics</strong>. 2022 Dec;41:100654.</li>
 
 <li><a href="https://doi.org/10.1371/journal.pcbi.1010618"> 
 EpiLPS: A fast and flexible Bayesian tool for estimation of the time-varying reproduction number.</a>
