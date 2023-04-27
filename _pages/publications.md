@@ -7,9 +7,9 @@ author_profile: true
 
 Updated: 27 Apr 2023
 
-1. <a href="publications">Peer-reviewed publications</a>
-2. <a href="books">Contribution to books</a>
-3. <a href="other">Other (non peer-reviewed publications, preprints, reports)</a>
+1. <a href="#publications">Peer-reviewed publications</a>
+2. <a href="#books">Contribution to books</a>
+3. <a href="#other">Other (non peer-reviewed publications, preprints, reports)</a>
 
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
