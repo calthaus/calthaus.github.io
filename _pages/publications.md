@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+Updated: 27 Apr 2023
+
+1. [Peer-reviewed publications](#peer-reviewed-publications)
+2. [Contribution to books](#contribution-to-books)
+3. [Other](#other) (non peer-reviewed publications, preprints, reports)
+
 See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
 
-Updated: 7 Feb 2023
-
-<h2>1. Peer-reviewed publications</h2>
+<h2>Peer-reviewed publications</h2>
 <ol reversed="">
 
 <li><a href="https://doi.org/10.1186/s12879-023-08214-y"> 
@@ -265,14 +269,14 @@ Althaus CL, Turner KM, Schmid BV, Heijne JC, Kretzschmar M, Low N.
 <strong>Bioessays.</strong> 2004 Feb; 26(2): 180-8.</li>
 </ol>
 
-<h2>2. Contribution to books</h2>
+<h2>Contribution to books</h2>
 <ol reversed="">
 <li><a href="https://covid-19.mitpress.mit.edu/pub/k9tv4mwm">Modeling the Ebola epidemic: challenges and lessons for the future.</a>
 Althaus CL.
 In Evans NG, Smith TC, Majumder MS (Eds.), <strong>Ebola’s Message: Public Health and Medicine in the Twenty-First Century</strong>. MIT Press, 2016.</li>
 </ol>
 
-<h2>3. Other (non peer-reviewed publications, preprints, reports)</h2>
+<h2>Other</h2>
 <ol reversed="">
  <li><a href="http://dx.doi.org/10.48350/178618"> 
 Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study.</a>
