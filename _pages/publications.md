@@ -24,7 +24,7 @@ Reichmuth ML, Heron L, Riou J, Moser A, Hauser A, Low N, Althaus CL.
 <li><a href="https://doi.org/10.1371/journal.ppat.1011553">
 Importation of Alpha and Delta variants during the SARS-CoV-2 epidemic in Switzerland: Phylogenetic analysis and intervention scenarios.</a>
 Reichmuth ML, Hodcroft EB, Althaus CL.
-<strong>PLOS Pathog</strong>. 2023 Aug 10;19(8):e1011553.</li>
+<strong>PLoS Pathog</strong>. 2023 Aug 10;19(8):e1011553.</li>
 
 <li><a href="https://doi.org/10.1186/s12879-023-08214-y"> 
 Social contact patterns during the COVID-19 pandemic in 21 European countries - evidence from a two-year study.</a>
