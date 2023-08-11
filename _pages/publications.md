@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Updated: 27 Apr 2023
+Updated: 11 Aug 2023
 
 1. <a href="#publications">Peer-reviewed publications</a>
 2. <a href="#books">Contribution to books</a>
@@ -15,6 +15,16 @@ See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+333
 
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
+
+<li><a href="https://doi.org/10.1186/s12889-023-16405-0">
+Socio-demographic characteristics associated with COVID-19 vaccination uptake in Switzerland: longitudinal analysis of the CoMix study.</a>
+Reichmuth ML, Heron L, Riou J, Moser A, Hauser A, Low N, Althaus CL.
+<strong>BMC Public Health</strong>. 2023 Aug 10;23(1):1523.</li>
+
+<li><a href="https://doi.org/10.1371/journal.ppat.1011553">
+Importation of Alpha and Delta variants during the SARS-CoV-2 epidemic in Switzerland: Phylogenetic analysis and intervention scenarios.</a>
+Reichmuth ML, Hodcroft EB, Althaus CL.
+<strong>PLOS Pathog</strong>. 2023 Aug 10;19(8):e1011553.</li>
 
 <li><a href="https://doi.org/10.1186/s12879-023-08214-y"> 
 Social contact patterns during the COVID-19 pandemic in 21 European countries - evidence from a two-year study.</a>
