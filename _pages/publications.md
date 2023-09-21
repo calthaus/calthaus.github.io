@@ -11,7 +11,7 @@ Updated: 11 Aug 2023
 2. <a href="#books">Contribution to books</a>
 3. <a href="#other">Other (non peer-reviewed publications, preprints, reports)</a>
 
-See <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a> for a complete list of publications and preprints.
+You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih.gov/analysis?search_id=cqr0eez26ttobth3">iCite</a> and a complete list of publications and preprints on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a>.
 
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
