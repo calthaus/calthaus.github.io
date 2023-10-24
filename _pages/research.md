@@ -7,16 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UFfsoUsrTXo?si=RpBeQTy56comoxLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [What exoplanets have to do with the coronavirus](https://www.uniaktuell.unibe.ch/2020/what_exoplanets_have_to_do_with_the_coronavirus) (uniaktuell)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/doSjPAjVJjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Ongoing projects
-
-- [EpiPose - Epidemic intelligence to minimize COVID-19's public health, societal and economical impact](https://www.uhasselt.be/en/aparte-sites-partner-en/epipose)
-  - Funding: Horizon 2020
- 
-- [Tracking the COVID-19 epidemic in Switzerland: phylogenetics and epidemiological modeling](https://data.snf.ch/grants/grant/196046)
-  - Funding: Swiss National Science Foundation (SNSF)
  
 - [Early detection for early action: integrating multiple data sources for monitoring the SARS-CoV-2 epidemic in near real-time](https://www.mcid.unibe.ch/call_for_projects/first_mcid_funded_projects/early_detection_for_early_action_integrating_multiple_data_sources_for_monitoring_the_sars_cov_2_epidemic_in_near_real_time/index_eng.html)
   - Funding: Multidisciplinary Center for Infectious Diseases (MCID)
@@ -28,6 +24,12 @@ author_profile: true
   - Funding: NCCS-Impacts programme - Federal Office of Public Health (FOPH) and Federal Food Safety and Veterinary Office (FSVO)
 
 ## Completed projects
+
+- [EpiPose - Epidemic intelligence to minimize COVID-19's public health, societal and economical impact](https://www.uhasselt.be/en/aparte-sites-partner-en/epipose)
+  - Funding: Horizon 2020
+ 
+- [Tracking the COVID-19 epidemic in Switzerland: phylogenetics and epidemiological modeling](https://data.snf.ch/grants/grant/196046)
+  - Funding: Swiss National Science Foundation (SNSF)
 
 - [Social contacts and attitudes towards vaccination during the COVID-19 pandemic: Insights from the CoMix study](https://github.com/ISPMBern/comix)
   - Funding: Federal Office of Public Health (FOPH)
