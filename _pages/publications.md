@@ -211,7 +211,7 @@ Althaus CL.
  	<li><a href="https://doi.org/10.1371/journal.pcbi.1003871" target="_blank" rel="noopener noreferrer">Quantifying the turnover of transcriptional subclasses of HIV-1-infected cells.</a>
 Althaus CL, Joos B, Perelson AS, Günthard HF.
 <strong>PLOS Comput Biol</strong>. 2014 Oct;10(10): e1003871.</li>
- 	<li><a href="https://doi.org/10.1371/currents.outbreaks.91afb5e0f279e7f29e7056095255b288" target="_blank" rel="noopener noreferrer">Estimating the reproduction number of Ebola virus (EVOB) during the 2014 outbreak in West Africa.</a>
+ 	<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169395/" target="_blank" rel="noopener noreferrer">Estimating the reproduction number of Ebola virus (EVOB) during the 2014 outbreak in West Africa.</a>
 Althaus CL.
 <strong>PLOS Curr</strong>. 2014 Sep 2;6.</li>
  	<li><a href="https://doi.org/10.1136/sextrans-2013-051279">Reinfection by untreated partners of people treated for Chlamydia trachomatis and Neisseria gonorrhoeae: mathematical modelling study.</a>
