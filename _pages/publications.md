@@ -5,16 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-Updated: 11 Aug 2023
+Updated: 5 Dec 2023
 
 1. <a href="#publications">Peer-reviewed publications</a>
 2. <a href="#books">Contribution to books</a>
 3. <a href="#other">Other (non peer-reviewed publications, preprints, reports)</a>
 
-You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih.gov/analysis?search_id=cqr0eez26ttobth3">iCite</a> and a complete list of publications and preprints on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a>.
+You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih.gov/analysis?search_id=cqr0eez26ttobth3">iCite</a> and a complete list of publications and preprints on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+38048502+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a>.
 
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
+
+<li><a href="https://doi.org/10.1377/hlthaff.2023.00688">
+Reflections On Epidemiological Modeling To Inform Policy During The COVID-19 Pandemic In Western Europe, 2020-23.</a>
+Jit M, Ainslie K, Althaus C, Caetano C, Colizza V, Paolotti D, Beutels P, Willem L, Edmunds J, Nunes B, Namorado S, Faes C, Low N, Wallinga J, Hens N.
+<strong>Health Aff (Millwood)</strong>. 2023 Dec;42(12):1630-1636.</li>
 
 <li><a href="https://doi.org/10.1186/s12889-023-16405-0">
 Socio-demographic characteristics associated with COVID-19 vaccination uptake in Switzerland: longitudinal analysis of the CoMix study.</a>
