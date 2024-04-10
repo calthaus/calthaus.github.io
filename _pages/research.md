@@ -14,7 +14,7 @@ author_profile: true
 
 ## Ongoing projects
  
-- [Early detection for early action: integrating multiple data sources for monitoring the SARS-CoV-2 epidemic in near real-time](https://www.mcid.unibe.ch/call_for_projects/first_mcid_funded_projects/early_detection_for_early_action_integrating_multiple_data_sources_for_monitoring_the_sars_cov_2_epidemic_in_near_real_time/index_eng.html)
+- [Early detection for early action: integrating multiple data sources for monitoring the SARS-CoV-2 epidemic in near real-time](https://www.mcid.unibe.ch/research/mcid_funded_projects/early_detection_for_early_action_integrating_multiple_data_sources_for_monitoring_the_sars_cov_2_epidemic_in_near_real_time/index_eng.html)
   - Funding: Multidisciplinary Center for Infectious Diseases (MCID)
 
 - [ESCAPE - Efficient and rapidly SCAlable EU-wide evidence-driven Pandemic response plans through dynamic Epidemic data assimilation](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101095619/program/43108390/details)
