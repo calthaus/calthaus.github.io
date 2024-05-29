@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Updated: 5 Dec 2023
+Updated: 29 May 2023
 
 1. <a href="#publications">Peer-reviewed publications</a>
 2. <a href="#books">Contribution to books</a>
@@ -15,6 +15,21 @@ You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih
 
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
+
+<li><a href="https://doi.org/10.1016/j.epidem.2024.100771">
+Social contacts in Switzerland during the COVID-19 pandemic: insights from the CoMix study.</a>
+Reichmuth ML, Heron L, Beutels P, Hens, N, Low N, Althaus CL.
+<strong>Epidemics</strong>. 2024 May 10.</li>
+
+<li><a href="https://doi.org/10.1371/journal.pcbi.1011575">
+Bayesian workflow for time-varying transmission in stratified compartmental infectious disease transmission models.</a>
+Bouman JA, Hauser A, Grimm SL, Wohlfender M, Bhatt S, Semenova E, Gelman A, Althaus CL, Riou J.
+<strong>PLoS Comput Biol</strong>. 2024 Apr 29;20(4):e1011575</li>
+
+<li><a href="https://doi.org/10.3310/trqw3886">
+Improving sexual health through partner notification: the LUSTRUM mixed-methods research Programme including RCT of accelerated partner therapy.</a>
+Estcourt CS, Mapp F, Woode Owusu M, Low N, Flowers P, Copas A, Roberts TE, Mercer CH, Saunders J, Nandwani R, Althaus CL, Stirrup O, Symonds M, Howarth AR, Johnson AM, Okeke Ogwulu C, Pothoulaki M, Vojt G, Wayal S, Brice S, Comer-Schwartz A, Tostevin A, Williams E, Lasoye S, McQueen J, Abdali Z, Cassell JA.
+<strong>Programme Grants Appl Res</strong>. 2024;12(2).</li>
 
 <li><a href="https://doi.org/10.1377/hlthaff.2023.00688">
 Reflections On Epidemiological Modeling To Inform Policy During The COVID-19 Pandemic In Western Europe, 2020-23.</a>
