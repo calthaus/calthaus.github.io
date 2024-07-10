@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Updated: 29 May 2023
+Updated: 10 July 2024
 
 1. <a href="#publications">Peer-reviewed publications</a>
 2. <a href="#books">Contribution to books</a>
@@ -16,10 +16,15 @@ You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
 
+<li><a href="https://doi.org/10.1016/j.epidem.2024.100778">
+Social contact patterns following the COVID-19 pandemic: a snapshot of post-pandemic behaviour from the CoMix study.</a>
+Jarvis CI, Coletti P, Backer JA, Munday JD, Faes C, Beutels P, Althaus CL, Low N, Wallinga J, Hens N, Edmunds WJ.
+<strong>Epidemics</strong>. 2024 Jun 29;48:100778.</li>
+
 <li><a href="https://doi.org/10.1016/j.epidem.2024.100771">
 Social contacts in Switzerland during the COVID-19 pandemic: insights from the CoMix study.</a>
 Reichmuth ML, Heron L, Beutels P, Hens, N, Low N, Althaus CL.
-<strong>Epidemics</strong>. 2024 May 10.</li>
+<strong>Epidemics</strong>. 2024 Jun;47:100771.</li>
 
 <li><a href="https://doi.org/10.1371/journal.pcbi.1011575">
 Bayesian workflow for time-varying transmission in stratified compartmental infectious disease transmission models.</a>
