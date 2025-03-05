@@ -28,9 +28,7 @@ author_profile: true
 
 ## Newspaper
 
-- [Epidemiologe Christian Althaus mahnt: «Man sollte sich nun auf den Herbst vorbereiten»](https://www.watson.ch/schweiz/interview/858167286-corona-man-sollte-sich-nun-auf-den-herbst-vorbereiten) (watson, 12.2.2022)
 - [Interview mit Marcel Salathé und Christian Althaus - «In Skandinavien gibt es deshalb weniger impfskeptische Stimmen»](https://www.tagesanzeiger.ch/wir-schlagen-einen-krisenstab-vor-145612375869) (Tages-Anzeiger, 18.1.2022)
-- [Epidemiologe Althaus: «Wir werden in Zukunft immer bis 200 Patienten wegen Covid auf den Intensivstationen haben»](https://www.nzz.ch/schweiz/epidemiologe-althaus-ungeimpfte-duerfen-die-gesellschaft-nicht-in-geiselhaft-nehmen-ld.1655585?reduced=true) (NZZ, 17.11.2021)
 - [War der Bundesrat mit seinen Lockerungen voreilig, Herr Althaus?](https://www.nzz.ch/schweiz/corona-epidemiologe-althaus-plaediert-fuer-schutz-der-kinder-ld.1634494?reduced=true) (NZZ, 8.7.2021)
 - [«Die Situation ist wie im Frühjahr eine Woche vor dem Lockdown»](https://www.tagesanzeiger.ch/ein-jodler-konzert-ist-das-allerletzte-was-man-sich-jetzt-leisten-kann-223617924852) (SonntagsZeitung, 18.10.2020)
 - [Ein Tag im Lockdown](https://www.tagesanzeiger.ch/am-21-januar-verkaufte-ich-meine-aktien-552666098153) (Das Magazin, 8.6.2020)
