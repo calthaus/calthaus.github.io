@@ -19,7 +19,7 @@ You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih
 <li><a href="https://doi.org/10.1371/journal.pcbi.1012960">
 Estimating Re and overdispersion in secondary cases from the size of identical sequence clusters of SARS-CoV-2.</a>
 Hodcroft EB, Wohlfender MS, Neher RA, Riou J, Althaus CL.
-<strong>PLoS Comput Biol</strong>strong>. 2025 Apr 15;21(4):e1012960.</li>
+<strong>PLoS Comput Biol</strong>. 2025 Apr 15;21(4):e1012960.</li>
 
 <li><a href="https://doi.org/10.1016/j.epidem.2025.100813">
 Retrospective modelling of the disease and mortality burden of the 1918-1920 influenza pandemic in Zurich, Switzerland.</a>
