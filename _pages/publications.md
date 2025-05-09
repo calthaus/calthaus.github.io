@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Updated: 5 March 2025
+Updated: 9 May 2025
 
 1. <a href="#publications">Peer-reviewed publications</a>
 2. <a href="#books">Contribution to books</a>
@@ -16,7 +16,12 @@ You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
 
- <li><a href="https://doi.org/10.1016/j.epidem.2025.100813">
+<li><a href="https://doi.org/10.1371/journal.pcbi.1012960">
+Estimating Re and overdispersion in secondary cases from the size of identical sequence clusters of SARS-CoV-2.</a>
+Hodcroft EB, Wohlfender MS, Neher RA, Riou J, Althaus CL.
+<strong>PLoS Comput Biol</strong>strong>. 2025 Apr 15;21(4):e1012960.</li>
+
+<li><a href="https://doi.org/10.1016/j.epidem.2025.100813">
 Retrospective modelling of the disease and mortality burden of the 1918-1920 influenza pandemic in Zurich, Switzerland.</a>
 Ziegler E, Matthes KL, Middelkamp PW, Schuenemann VJ, Althaus CL, Rühli F, Staub K.
 <strong>Epidemics</strong>. 2025 Jan 11;50:100813.</li>
