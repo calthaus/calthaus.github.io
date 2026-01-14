@@ -5,16 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-Updated: 9 May 2025
+Updated: 14 January 2026
 
 1. <a href="#publications">Peer-reviewed publications</a>
 2. <a href="#books">Contribution to books</a>
 3. <a href="#other">Other (non peer-reviewed publications, preprints, reports)</a>
 
-You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih.gov/results?search_id=oyktm8qq0djwhd5m">iCite</a> and a complete list of publications and preprints on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+38048502+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a>.
+You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih.gov/results?searchId=dbdf6770e98049e3b542770bb0b5334b">iCite</a> and a complete list of publications and preprints on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+38048502+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a>.
 
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
+
+<li><a href="https://doi.org/10.1093/ajeadv/uuaf010">
+ICD-10 code embedding for patient matching: a first step towards applications in causal inference from hospital discharge data.</a>
+Bouman JA, Moser A, Wohlfender M, Leichtle AB, Beldi G, Endirch O, Riou J, Althaus CL.
+<strong>AJE Adv</strong>. 2025;uuaf010.</li>
+ 
+<li><a href="https://doi.org/10.1016/j.epidem.2025.100877">
+Machine learning-based short-term forecasting of COVID-19 hospital admissions using routine hospital patient data.</a>
+Wohlfender MS, Bouman JA, Endrich O, Ramette A, Leichtle AB, Beldi G, Althaus CL, Riou J.
+<strong>Epidemics</strong>. 2025 Dec 18;54:100877.</li>
+
+<li><a href="https://doi.org/10.1038/s43856-025-01282-y">
+Individual and neighborhood based socioeconomic factors relevant for contact behaviour and epidemic control.</a>
+Di Domenico L, Reichmuth ML, Althaus CL.
+<strong>Commun Med (Lond)</strong>. 2025 Dec 11.</li>
 
 <li><a href="https://doi.org/10.1371/journal.pcbi.1012960">
 Estimating Re and overdispersion in secondary cases from the size of identical sequence clusters of SARS-CoV-2.</a>
