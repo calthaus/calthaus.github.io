@@ -21,11 +21,10 @@ redirect_from:
 
 ## Academic Appointments
 * **Institute of Social and Preventive Medicine, University of Bern, Switzerland**
-	* Head of Research Group, 2014 -
-	* Member of Directorate, 2021 - 2024
-	* Member of Management Board, 2017 - 2021
+	* Research Team Leader, 2025 -
+	* Head of Research Group, 2014 - 2025
 	* SNSF Ambizione Research Fellow, 2011 - 2014
-	* Postdoctoral Research Fellow, 2009 - 2011
+	* Postdoctoral Fellow, 2009 - 2011
 * **Theoretical Biology & Bioinformatics, Utrecht University, Utrecht, The Netherlands**
 	* Research Assistant, 2005 - 2009
 * **Institute for Ecology & Evolution, ETH Zurich, Zurich, Switzerland**
