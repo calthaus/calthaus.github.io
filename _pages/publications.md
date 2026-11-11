@@ -5,16 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-Updated: 14 January 2026
+Updated: 11 November 2026
 
 1. <a href="#publications">Peer-reviewed publications</a>
 2. <a href="#books">Contribution to books</a>
 3. <a href="#other">Other (non peer-reviewed publications, preprints, reports)</a>
 
-You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih.gov/results?searchId=dbdf6770e98049e3b542770bb0b5334b">iCite</a> and a complete list of publications and preprints on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+38048502+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a>.
+You can find the Relative Citation Ratios (RCR) on <a href="https://icite.od.nih.gov/results?searchId=15d7411631d54855b8d3e0db4c85584e">iCite</a> and a complete list of publications and preprints on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Althaus+CL%5BAuthor%5D+OR+33327003+32229523+29552335+34620119+36209078+37101123+38048502+42602843+NOT+26008829+34696729&sort=date&size=100">PubMed</a> or <a href="https://scholar.google.com/citations?user=DBKK9IsAAAAJ&hl=en">Google Scholar</a>.
 
 <h2 id="publications">1. Peer-reviewed publications</h2>
 <ol reversed="">
+
+<li><a href="https://doi.org/10.57187/5575">
+Chikungunya case cluster with nonspecific symptoms: implications for primary care in Switzerland.</a>
+Walss M, Haase-Meneghetti C, Sydow V, Neumayr A, Keresztes F, Würfel E, Nobile A, Merlani G, Dhima N, Bel M, Althaus CL, Zaugg C, Kuenzli E, Mauti S.
+<strong>Swiss Med Wkly</strong>. 2026 Oct 5;156:5575.</li>
+
+<li><a href="https://doi.org/10.1136/bmjph-2025-004559">
+Forecasting tool of hospital demand during heat periods: a time-series regression study in Bern, Switzerland.</a>
+Di Domenico L, Wohlfender MS, Hautz WE, Vicedo-Cabrera AM, Althaus C.
+<strong>BMJ Public Health</strong>. 2026 Aug 11;4(3):e004559.</li>
 
 <li><a href="https://doi.org/10.1093/ajeadv/uuaf010">
 ICD-10 code embedding for patient matching: a first step towards applications in causal inference from hospital discharge data.</a>
