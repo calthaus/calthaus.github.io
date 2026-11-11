@@ -12,18 +12,16 @@ author_profile: true
 [What exoplanets have to do with the coronavirus](https://www.uniaktuell.unibe.ch/2020/what_exoplanets_have_to_do_with_the_coronavirus) (uniaktuell)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/doSjPAjVJjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Ongoing projects
+## Completed projects
  
-- [Early detection for early action: integrating multiple data sources for monitoring the SARS-CoV-2 epidemic in near real-time](https://www.mcid.unibe.ch/research/mcid_funded_projects/early_detection_for_early_action_integrating_multiple_data_sources_for_monitoring_the_sars_cov_2_epidemic_in_near_real_time/index_eng.html)
+- [Early detection for early action: integrating multiple data sources for monitoring the SARS-CoV-2 epidemic in near real-time](https://www.mcid.unibe.ch/research/mcid_research/early_detection_for_early_action_integrating_multiple_data_sources_for_monitoring_the_sars_cov_2_epidemic_in_near_real_time/index_eng.html)
   - Funding: Multidisciplinary Center for Infectious Diseases (MCID)
 
-- [ESCAPE - Efficient and rapidly SCAlable EU-wide evidence-driven Pandemic response plans through dynamic Epidemic data assimilation](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101095619/program/43108390/details)
+- [ESCAPE - Efficient and rapidly SCAlable EU-wide evidence-driven Pandemic response plans through dynamic Epidemic data assimilation](https://www.escapepandemics.com)
   - Funding: Horizon Europe and State Secretariat for Education, Research and Innovation (SERI)
 
-- [Impacts of climate change on health, well-being and performance of humans and animals and on food safety in Switzerland](https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/nccs-impacts/projects.html)
+- [Impacts of climate change on health, well-being and performance of humans and animals and on food safety in Switzerland](https://www.meteoschweiz.admin.ch/klima/klimawandel/nccs-impacts/nccs-impacts-programm-projekte-und-produkte.html)
   - Funding: NCCS-Impacts programme - Federal Office of Public Health (FOPH) and Federal Food Safety and Veterinary Office (FSVO)
-
-## Completed projects
 
 - [EpiPose - Epidemic intelligence to minimize COVID-19's public health, societal and economical impact](https://www.uhasselt.be/en/aparte-sites-partner-en/epipose)
   - Funding: Horizon 2020
@@ -41,7 +39,7 @@ author_profile: true
   - Funding: [Swiss Cancer Research](http://www.swisscancer.ch/)
  
 - Exploring response surfaces and synergistic interactions of antibiotic combination treatment for Neisseria gonorrhoeae
-  - Funding: [SystemsX.ch](http://www.systemsx.ch/)
+  - Funding: SystemsX.ch
  
 - Rapid Diagnosis of Antibiotic Resistance in Gonorrhoea: RADAR-Go
   - Funding: SwissTransMed - Platforms for Translational Research in Medicine
